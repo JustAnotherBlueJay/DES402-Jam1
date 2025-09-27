@@ -15,6 +15,6 @@ public class GenericController : MonoBehaviour
     private void Update()
     {
         Vector2 moveDir = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-        rb.velocity = moveDir * moveSpeed;
+        rb.linearVelocity = moveDir * moveSpeed;
     }
 }

@@ -49,7 +49,7 @@ public class ScreenWrapped : MonoBehaviour
                 GameObject duplicateShark = Instantiate(this.gameObject, spawnPosition, transform.rotation) as GameObject;
                 duplicateShark.transform.parent = transform.parent;
                 spawnedDuplicateInstance = duplicateShark.GetComponent<ScreenWrapped>();
-                spawnedDuplicateInstance.controllerRB.velocity = controllerRB.velocity;
+                spawnedDuplicateInstance.controllerRB.linearVelocity = controllerRB.linearVelocity;
                 spawnedDuplicateInstance.parentInstance = this;
                 spawnedDuplicateInstance.instanceCount += 1;
                 instanceCount += 1;
@@ -62,7 +62,7 @@ public class ScreenWrapped : MonoBehaviour
                 GameObject duplicateShark = Instantiate(this.gameObject, spawnPosition, transform.rotation) as GameObject;
                 duplicateShark.transform.parent = transform.parent;
                 spawnedDuplicateInstance = duplicateShark.GetComponent<ScreenWrapped>();
-                spawnedDuplicateInstance.controllerRB.velocity = controllerRB.velocity;
+                spawnedDuplicateInstance.controllerRB.linearVelocity = controllerRB.linearVelocity;
                 spawnedDuplicateInstance.parentInstance = this;
                 spawnedDuplicateInstance.instanceCount += 1;
                 instanceCount += 1;
@@ -75,7 +75,7 @@ public class ScreenWrapped : MonoBehaviour
                 GameObject duplicateShark = Instantiate(this.gameObject, spawnPosition, transform.rotation) as GameObject;
                 duplicateShark.transform.parent = transform.parent;
                 spawnedDuplicateInstance = duplicateShark.GetComponent<ScreenWrapped>();
-                spawnedDuplicateInstance.controllerRB.velocity = controllerRB.velocity;
+                spawnedDuplicateInstance.controllerRB.linearVelocity = controllerRB.linearVelocity;
                 spawnedDuplicateInstance.parentInstance = this;
                 spawnedDuplicateInstance.instanceCount += 1;
                 instanceCount += 1;
@@ -88,7 +88,7 @@ public class ScreenWrapped : MonoBehaviour
                 GameObject duplicateShark = Instantiate(this.gameObject, spawnPosition, transform.rotation) as GameObject;
                 duplicateShark.transform.parent = transform.parent;
                 spawnedDuplicateInstance = duplicateShark.GetComponent<ScreenWrapped>();
-                spawnedDuplicateInstance.controllerRB.velocity = controllerRB.velocity;
+                spawnedDuplicateInstance.controllerRB.linearVelocity = controllerRB.linearVelocity;
                 spawnedDuplicateInstance.parentInstance = this;
                 spawnedDuplicateInstance.instanceCount += 1;
                 instanceCount += 1;
