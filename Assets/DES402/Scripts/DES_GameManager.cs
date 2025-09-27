@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class DES_GameManager : MonoBehaviour
 {
+
+    //TODO: all the stuff about player state should probably be moved to Instance Manager
     //possible states a player can be in
     public enum PlayerState
     {
