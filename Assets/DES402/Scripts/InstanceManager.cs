@@ -5,7 +5,7 @@ public class InstanceManager : MonoBehaviour
 {
     
     [SerializeField] private GameObject player;
-    private TestPlayer playerScript;
+    private PlayerController playerScript;
 
     [SerializeField] private GameObject camera;
     private CameraInstance cameraScript;
@@ -29,7 +29,7 @@ public class InstanceManager : MonoBehaviour
 
     private void Awake()
     {
-        playerScript = player.GetComponent<TestPlayer>();
+        playerScript = player.GetComponent<PlayerController>();
         cameraScript = camera.GetComponent<CameraInstance>();
     }
 
