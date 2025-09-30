@@ -17,13 +17,20 @@ public class PlayerController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
+        //stops the player sliding
+        StickToSlope();
+
+        //direction to move the player along
+        Vector2 slopeDirection = GetSlopeVector();
+
+
         // if the player presses the correct button move them
         if (PlayerGaveExpectedInput())
         {
-
-            Vector2 finalForce = Vector2.right * 1000f * Time.deltaTime;
+            //TODO: Replace this 50 with a variable relating to the strength stat
+            Vector2 finalForce = slopeDirection * 50f;
 
             //reset velocity to prevent spamming
             myRigidBody.linearVelocity = Vector2.zero;
@@ -70,8 +77,41 @@ public class PlayerController : MonoBehaviour
         return WhaleButton.L_Button;
     }
 
+    //if the player is touching the slope ignore gravity and stop any sliding
+    private void StickToSlope()
+    {
+        if (myRigidBody.IsTouchingLayers(LayerMask.GetMask("Slope")))
+        {
+            myRigidBody.gravityScale = 0f;
+            myRigidBody.linearVelocity = Vector3.zero;
+        }
+        else
+        {
+            myRigidBody.gravityScale = 1f;
+        }
+    }
 
+    private Vector2 GetSlopeVector()
+    {
+        //ray cast to find the slope
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 20f, LayerMask.GetMask("Slope"));
 
+        if (hit.collider != null)
+        {
+            //get the normal of the slope
+            Vector2 normal = hit.normal;
+
+            Debug.DrawRay(transform.position, new Vector2(normal.y, -normal.x), Color.yellow);
+
+            //return the slopes normal rotates 90 degrees (the direction of the slope)
+            return new Vector2(normal.y, -normal.x);
+        }
+
+        else
+        {
+            return Vector2.zero;
+        }
+    }
     public void ApplyInstanceData(int instanceNumber)
     {
         myInstanceNumber = instanceNumber;
