@@ -357,6 +357,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   intanceManager: {fileID: 1893782728}
   myInstanceNumber: 0
+  weight: 0
+  stepLength: 50
 --- !u!50 &351916722
 Rigidbody2D:
   serializedVersion: 5

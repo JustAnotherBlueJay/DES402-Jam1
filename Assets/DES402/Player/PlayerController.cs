@@ -5,6 +5,8 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private InstanceManager intanceManager;
     [SerializeField] private int myInstanceNumber;
+    [SerializeField, Range(0f,1f)] private float weight;
+    [SerializeField] private float stepLength;
 
     private Rigidbody2D myRigidBody;
 
@@ -30,7 +32,7 @@ public class PlayerController : MonoBehaviour
         if (PlayerGaveExpectedInput())
         {
             //TODO: Replace this 50 with a variable relating to the strength stat
-            Vector2 finalForce = slopeDirection * 50f;
+            Vector2 finalForce = slopeDirection * (stepLength * (1 - weight));
 
             //reset velocity to prevent spamming
             myRigidBody.linearVelocity = Vector2.zero;
