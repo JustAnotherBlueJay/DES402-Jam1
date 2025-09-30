@@ -91,6 +91,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    //returns the angle of the slope as a vector
     private Vector2 GetSlopeVector()
     {
         //ray cast to find the slope
