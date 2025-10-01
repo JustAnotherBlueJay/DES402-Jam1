@@ -334,6 +334,7 @@ GameObject:
   - component: {fileID: 1467896283}
   - component: {fileID: 1467896282}
   - component: {fileID: 1467896281}
+  - component: {fileID: 1467896287}
   m_Layer: 0
   m_Name: MusicManager
   m_TagString: Untagged
@@ -859,6 +860,14 @@ MonoBehaviour:
   Track3: {fileID: 1467896283}
   Track4: {fileID: 1467896282}
   Track5: {fileID: 1467896281}
+--- !u!81 &1467896287
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467896279}
+  m_Enabled: 1
 --- !u!1 &1598197179
 GameObject:
   m_ObjectHideFlags: 0
