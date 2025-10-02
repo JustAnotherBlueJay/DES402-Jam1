@@ -15,6 +15,9 @@ public class InstanceManager : MonoBehaviour
     private ParallaxManager parallaxScriptSky;
     private ParallaxManager parallaxScriptMountain;
 
+    [SerializeField] private GameObject dialogueCanvas;
+    private DialogueManager dialogueCanvasScript;
+
 
     [SerializeField] private UnityEngine.UI.Image background;
 
@@ -39,6 +42,7 @@ public class InstanceManager : MonoBehaviour
         cameraScript = camera.GetComponent<CameraInstance>();
         parallaxScriptSky = parallaxSky.GetComponent<ParallaxManager>();
         parallaxScriptMountain = parallaxMountain.GetComponent<ParallaxManager>();
+        dialogueCanvasScript = dialogueCanvas.GetComponent<DialogueManager>();
     }
 
     //register itself with the gamemanger and apply instance data to the relevant objects
@@ -52,6 +56,7 @@ public class InstanceManager : MonoBehaviour
         cameraScript.ApplyInstanceData(instanceNumber);
         parallaxScriptSky.ApplyInstanceData(instanceNumber);
         parallaxScriptMountain.ApplyInstanceData(instanceNumber);
+        dialogueCanvasScript.ApplyInstanceData(instanceNumber);
 
         background.color = backgroundColors[instanceNumber];
     }
