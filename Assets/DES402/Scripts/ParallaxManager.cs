@@ -34,8 +34,8 @@ public class ParallaxManager : MonoBehaviour
     void LateUpdate()
     {
         Vector3 cameraPos = cameraTransform.position;
-        transform.position = startPosition + new Vector3(cameraPos.x - (myInstanceNumber * 100/parallaxMultiplier) * parallaxMultiplier, cameraPos.y * parallaxMultiplier, 0f);
-        print(myInstanceNumber);
+        transform.position = startPosition + new Vector3(cameraPos.x - (myInstanceNumber * 100 / parallaxMultiplier) * parallaxMultiplier, cameraPos.y * parallaxMultiplier, 0f);
+        //print(myInstanceNumber);
     }
 
 

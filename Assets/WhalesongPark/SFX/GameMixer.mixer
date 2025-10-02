@@ -1,5 +1,29 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!244 &-5810530348306904005
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: 43b82d96bfe09ca4cb371f533014d83e
+  m_EffectName: audioplugin_RNBO Plugin
+  m_MixLevel: a2aa328470e5d2b4bb3137451cc5a0af
+  m_Parameters:
+  - m_ParameterName: Volume
+    m_GUID: e8565b439718e2a4a9a32e21ef5831f3
+  - m_ParameterName: Resonance
+    m_GUID: 26e4f0aa3d2a3564598abed0d067c35f
+  - m_ParameterName: Cutoff
+    m_GUID: ad752e9fc2d317c42afb920cdde6caa8
+  - m_ParameterName: Cuttoff_Ramp_To
+    m_GUID: 6b88aff38d08a35499d1844494d229bf
+  - m_ParameterName: Cutoff_Ramp_Dur
+    m_GUID: a57bfd4c3d5c5f840a1fad84f46d74ad
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
 --- !u!243 &-4319460761647453861
 AudioMixerGroupController:
   m_ObjectHideFlags: 0
@@ -15,6 +39,7 @@ AudioMixerGroupController:
   m_Send: 00000000000000000000000000000000
   m_Effects:
   - {fileID: 7009618307061378753}
+  - {fileID: -5810530348306904005}
   m_UserColorIndex: 0
   m_Mute: 0
   m_Solo: 0
@@ -55,6 +80,12 @@ AudioMixerController:
     name: AmbientFastVolume
   - guid: 4e6c1e544e55a7942b61f169cd222b33
     name: MainThemeVolume
+  - guid: e8565b439718e2a4a9a32e21ef5831f3
+    name: Volume
+  - guid: 26e4f0aa3d2a3564598abed0d067c35f
+    name: Resonance
+  - guid: ad752e9fc2d317c42afb920cdde6caa8
+    name: Cutoff
   - guid: 6a093f76c2ad67d42a708f227b235c0c
     name: MasterVolume
   m_AudioMixerGroupViews:
@@ -113,7 +144,7 @@ AudioMixerSnapshotController:
   m_SnapshotID: 7fd6e30c1c7b2fe419b607e70b5665bc
   m_FloatValues:
     4e6c1e544e55a7942b61f169cd222b33: -80
-    6a093f76c2ad67d42a708f227b235c0c: -0.002441872
+    6a093f76c2ad67d42a708f227b235c0c: 7.975582
   m_TransitionOverrides: {}
 --- !u!243 &2042466933171755585
 AudioMixerGroupController:
