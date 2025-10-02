@@ -1010,6 +1010,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip1: {fileID: 8300000, guid: 709d74b49284ba24aac72e9dcab53bd6, type: 3}
+  clip2: {fileID: 8300000, guid: 3fd21d9cce305db458eb24054578d76b, type: 3}
+  clip3: {fileID: 8300000, guid: f73d845bbd7f8174a83553a62fefc42f, type: 3}
+  clip4: {fileID: 8300000, guid: b6184ae071586f84495aedb4ab1b1e4b, type: 3}
+  clip5: {fileID: 8300000, guid: 24e47c82776465d468281d2f4c48d1df, type: 3}
 --- !u!4 &1830940905
 Transform:
   m_ObjectHideFlags: 0
