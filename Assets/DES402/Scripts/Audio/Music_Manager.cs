@@ -13,12 +13,6 @@ public class Music_Manager : MonoBehaviour
     public AudioSource Track4;
 
     public AudioSource Track5;
-
-    public AudioSource Track6;
-
-    public AudioSource Track7;
-
-    public AudioSource Track8;
     void Start()
     {
         Track1.Play();
@@ -26,9 +20,6 @@ public class Music_Manager : MonoBehaviour
         Track3.Play();
         Track4.Play();
         Track5.Play();
-        Track6.Play();
-        Track7.Play();
-        Track8.Play();
     }
 
     // Update is called once per frame
