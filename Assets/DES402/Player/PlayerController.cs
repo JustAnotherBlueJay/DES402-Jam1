@@ -23,14 +23,17 @@ public class PlayerController : MonoBehaviour
     //reference to the timer gameObject
     [SerializeField] private Timer inputTimer;
     //the length of timer before a player can step again
-    private float inputPauseTime = 1f;
-    //TODO [SerializeField] private float[] inputPauseTimes for each weight level
+    private float inputPauseTime;
+    //how long the input pause time should be at each weight level
+    [SerializeField] private float[] inputPauseTimes = new float[3];
     //when the timer ends the player is moveable
     private bool moveable = true;
     //a flag to indicate the player has made a movement input and should be moved on the next FixedUpdate frame
     private bool movePlayer = false;
 
     private Animator myAnimator;
+
+    //script responsible for showing the UI
 
     //the button the player needs to press to move
     private WhaleButton expectedInput = WhaleButton.L_Button;
@@ -39,6 +42,8 @@ public class PlayerController : MonoBehaviour
     {
         myRigidBody = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
+
+        inputPauseTime = inputPauseTimes[0];
 
     }
 
@@ -63,6 +68,7 @@ public class PlayerController : MonoBehaviour
             //marks the player to be moved
             //this is because physics forces shouldnt be applied in update
             movePlayer = true;
+            PlayWalkAnimation();
 
             //start the input delay
             moveable = false;
@@ -95,7 +101,7 @@ public class PlayerController : MonoBehaviour
 
 
         // if the player presses the correct button move them
-        if (movePlayer)
+        if (movePlayer && myRigidBody.IsTouchingLayers(LayerMask.GetMask("Slope")))
         {
             //set move player flag to false to stop them being moved on the next fixed update
             movePlayer = false;
@@ -110,7 +116,6 @@ public class PlayerController : MonoBehaviour
             myRigidBody.AddForce(finalForce, ForceMode2D.Impulse);
 
             //myAnimator.Play("FullWeightWalk");
-            PlayWalkAnimation();
 
         }
 
@@ -206,9 +211,22 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    public void SetPlayerWeight(PlayerWeight newWeight)
+    private void SetPlayerWeight(PlayerWeight newWeight)
     {
+        //set the players weight variable to the new weight
         weight = newWeight;
+        //update the player animator to the new idle animation
         myAnimator.SetInteger("PlayerWeight", (int)newWeight);
+        //set the new wait time for the input delay
+        inputPauseTime = inputPauseTimes[(int)newWeight];
+    }
+
+    //NPC doesnt need to know the players weight so it can just reduce it like this
+    public void ReduceWeight()
+    {
+        //increase the enum by one to drop weight
+        int newWeight = (int)weight + 1;
+
+        SetPlayerWeight((PlayerWeight)newWeight);
     }
 }

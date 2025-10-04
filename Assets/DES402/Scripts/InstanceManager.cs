@@ -19,7 +19,6 @@ public class InstanceManager : MonoBehaviour
     private DialogueManager dialogueCanvasScript;
 
 
-    [SerializeField] private UnityEngine.UI.Image background;
 
     [Header("Instance Information")]
     //position that each instance of the game should spawn at
@@ -28,8 +27,6 @@ public class InstanceManager : MonoBehaviour
     [SerializeField] private Color[] playerColors;
     //where the camera should render on the screen
     [SerializeField] private Rect[] cameraViewportRects;
-    //what colour the background is
-    [SerializeField] private Color[] backgroundColors;
 
     private DES_GameManager gameManager = null;
 
@@ -58,7 +55,6 @@ public class InstanceManager : MonoBehaviour
         parallaxScriptMountain.ApplyInstanceData(instanceNumber);
         dialogueCanvasScript.ApplyInstanceData(instanceNumber);
 
-        background.color = backgroundColors[instanceNumber];
     }
 
     //returns the color that player instance should be
