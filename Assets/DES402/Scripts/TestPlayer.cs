@@ -39,6 +39,6 @@ public class TestPlayer : MonoBehaviour
     {
         myInstanceNumber = instanceNumber;
 
-        GetComponent<SpriteRenderer>().color = intanceManager.GetPlayerColor(myInstanceNumber);
+        //GetComponent<SpriteRenderer>().color = intanceManager.GetPlayerColor(myInstanceNumber);
     }
 }

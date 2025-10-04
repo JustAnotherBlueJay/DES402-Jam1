@@ -18,13 +18,21 @@ public class InstanceManager : MonoBehaviour
     [SerializeField] private GameObject dialogueCanvas;
     private DialogueManager dialogueCanvasScript;
 
+    [SerializeField] private TitleScreen titleScreen;
+
+    private Music_Manager musicManager;
+
+    public enum GameState
+    {
+        TitleScreen,
+        InGame
+    }
+    public GameState gameState;
 
 
     [Header("Instance Information")]
     //position that each instance of the game should spawn at
     [SerializeField] private Vector3[] instancePositions;
-    //colour each instance of the palyer should be
-    [SerializeField] private Color[] playerColors;
     //where the camera should render on the screen
     [SerializeField] private Rect[] cameraViewportRects;
 
@@ -40,6 +48,7 @@ public class InstanceManager : MonoBehaviour
         parallaxScriptSky = parallaxSky.GetComponent<ParallaxManager>();
         parallaxScriptMountain = parallaxMountain.GetComponent<ParallaxManager>();
         dialogueCanvasScript = dialogueCanvas.GetComponent<DialogueManager>();
+        musicManager = Music_Manager.instance;
     }
 
     //register itself with the gamemanger and apply instance data to the relevant objects
@@ -54,18 +63,28 @@ public class InstanceManager : MonoBehaviour
         parallaxScriptSky.ApplyInstanceData(instanceNumber);
         parallaxScriptMountain.ApplyInstanceData(instanceNumber);
         dialogueCanvasScript.ApplyInstanceData(instanceNumber);
+        titleScreen.ApplyInstanceData(instanceNumber);
 
     }
 
-    //returns the color that player instance should be
-    public Color GetPlayerColor(int instanceNumber)
-    {
-        return playerColors[instanceNumber];
-    }
 
     //returns the camera details for that instance
     public Rect GetCameraViewportRect(int instanceNumber)
     {
         return cameraViewportRects[instanceNumber];
+    }
+
+    public void TransitionToGame()
+    {
+        gameState = GameState.InGame;
+
+        for (int i = 0; i < transform.childCount; i++)
+        {
+            transform.GetChild(i).gameObject.SetActive(true);
+        }
+        playerScript.enabled = true;
+
+        musicManager.StartMusic();
+
     }
 }

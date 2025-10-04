@@ -16,13 +16,6 @@ public class Timer : MonoBehaviour
     //if the timer is currently ticking
     private bool paused = true;
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
@@ -59,11 +52,27 @@ public class Timer : MonoBehaviour
     }
 
     //call this to start the timer
-    public void StartTimer(float seconds)
+    public void StartTimer(float seconds = -1)
     {
-        waitTime = seconds;
+        //if a time is passed then set that time, otherwise time left is equal to whatever is in wait time
+        if (seconds != -1)
+        {
+            waitTime = seconds;
+        }
+
         timeLeft = waitTime;
         paused = false;
+    }
+
+    //used to stop a repeating timer
+    public void StopTimer()
+    {
+        paused = true;
+    }
+
+    public bool IsStopped()
+    {
+        return paused;
     }
 
 

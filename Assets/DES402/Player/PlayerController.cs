@@ -34,6 +34,7 @@ public class PlayerController : MonoBehaviour
     private Animator myAnimator;
 
     //script responsible for showing the UI
+    [SerializeField] private InstanceUIManager UIManager;
 
     //the button the player needs to press to move
     private WhaleButton expectedInput = WhaleButton.L_Button;
@@ -44,13 +45,16 @@ public class PlayerController : MonoBehaviour
         myAnimator = GetComponent<Animator>();
 
         inputPauseTime = inputPauseTimes[0];
-
     }
 
     private void Start()
     {
         //connecting the OnTimeout action to this scripts method
         inputTimer.OnTimeout = OnInputTimerTimeout;
+
+        //tell the movement buttons to flash on startup since the player is active
+        UIManager.SetMoveButtonsFlash(moveable);
+
     }
 
     // Update is called once per frame
@@ -72,6 +76,8 @@ public class PlayerController : MonoBehaviour
 
             //start the input delay
             moveable = false;
+            //stop buttons flashing
+            UIManager.SetMoveButtonsFlash(moveable);
             inputTimer.StartTimer(inputPauseTime);
         }
 
@@ -186,13 +192,14 @@ public class PlayerController : MonoBehaviour
     {
         myInstanceNumber = instanceNumber;
 
-        GetComponent<SpriteRenderer>().color = intanceManager.GetPlayerColor(myInstanceNumber);
     }
 
     public void OnInputTimerTimeout()
     {
         //allows the player to be moved
         moveable = true;
+        UIManager.SetMoveButtonsFlash(moveable);
+
     }
 
     private void PlayWalkAnimation()
