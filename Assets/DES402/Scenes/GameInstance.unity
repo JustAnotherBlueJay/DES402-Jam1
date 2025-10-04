@@ -389,6 +389,7 @@ GameObject:
   - component: {fileID: 351916721}
   - component: {fileID: 351916723}
   - component: {fileID: 351916722}
+  - component: {fileID: 351916724}
   m_Layer: 17
   m_Name: Player
   m_TagString: Player
@@ -440,12 +441,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8437680721942568868, guid: e3dcde552dba1d6438ea3585087b9e66, type: 3}
+  m_Sprite: {fileID: -2951802150405364340, guid: a7c55a9c7d55c784ab308a4a5cf67113, type: 3}
   m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.17, y: 2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -463,6 +464,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1465027922}
+  - {fileID: 1941809197}
   m_Father: {fileID: 1893782729}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &351916721
@@ -481,6 +483,7 @@ MonoBehaviour:
   myInstanceNumber: 0
   weight: 0
   stepLength: 50
+  inputTimer: {fileID: 1941809198}
 --- !u!50 &351916722
 Rigidbody2D:
   serializedVersion: 5
