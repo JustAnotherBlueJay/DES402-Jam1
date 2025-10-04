@@ -46,7 +46,6 @@ public class Music_Manager : MonoBehaviour
 
     public void StartMusic()
     {
-        print("STARTING MUSIC");
         Track1.Play();
         Track2.Play();
         Track3.Play();
