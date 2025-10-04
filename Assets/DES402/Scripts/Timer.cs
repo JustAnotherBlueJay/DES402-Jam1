@@ -11,7 +11,7 @@ public class Timer : MonoBehaviour
     private float timeLeft;
 
     //if the timer auto repeats or not
-    [SerializeField] private bool oneShot = false;
+    [SerializeField] private bool oneShot = true;
 
     //if the timer is currently ticking
     private bool paused = true;

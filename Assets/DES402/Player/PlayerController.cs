@@ -1,14 +1,36 @@
+using System;
 using System.Threading;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private InstanceManager intanceManager;
-    [SerializeField] private int myInstanceNumber;
-    [SerializeField, Range(0f,1f)] private float weight;
-    [SerializeField] private float stepLength;
 
+    //the unique ID for this instance of player
+    [SerializeField] private int myInstanceNumber;
+    //TODO: will affect the duration of inputPauseTime
+    public enum PlayerWeight
+    {
+        FullWeight,
+        MinusOne,
+        MinusTwo
+    }
+    private PlayerWeight weight = PlayerWeight.FullWeight;
+    //how long each player step is
+    [SerializeField] private float stepLength;
+    //the players rigid body, used for movement
     private Rigidbody2D myRigidBody;
+    //reference to the timer gameObject
+    [SerializeField] private Timer inputTimer;
+    //the length of timer before a player can step again
+    private float inputPauseTime = 1f;
+    //TODO [SerializeField] private float[] inputPauseTimes for each weight level
+    //when the timer ends the player is moveable
+    private bool moveable = true;
+    //a flag to indicate the player has made a movement input and should be moved on the next FixedUpdate frame
+    private bool movePlayer = false;
+
+    private Animator myAnimator;
 
     //the button the player needs to press to move
     private WhaleButton expectedInput = WhaleButton.L_Button;
@@ -16,9 +38,53 @@ public class PlayerController : MonoBehaviour
     private void Awake()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
+        myAnimator = GetComponent<Animator>();
+
+    }
+
+    private void Start()
+    {
+        //connecting the OnTimeout action to this scripts method
+        inputTimer.OnTimeout = OnInputTimerTimeout;
     }
 
     // Update is called once per frame
+    private void Update()
+    {
+        //if the input delay timer hasnnt ended then we return
+        if (!moveable)
+        {
+            return;
+        }
+
+        // if the player presses the correct button mark them to be moved
+        if (PlayerGaveExpectedInput())
+        {
+            //marks the player to be moved
+            //this is because physics forces shouldnt be applied in update
+            movePlayer = true;
+
+            //start the input delay
+            moveable = false;
+            inputTimer.StartTimer(inputPauseTime);
+        }
+
+        if (Input.GetKey(KeyCode.Keypad1))
+        {
+            SetPlayerWeight(PlayerWeight.FullWeight);
+        }
+
+        if (Input.GetKey(KeyCode.Keypad2))
+        {
+            SetPlayerWeight(PlayerWeight.MinusOne);
+        }
+
+        if (Input.GetKey(KeyCode.Keypad3))
+        {
+            SetPlayerWeight(PlayerWeight.MinusTwo);
+        }
+
+    }
     void FixedUpdate()
     {
         //stops the player sliding
@@ -29,19 +95,23 @@ public class PlayerController : MonoBehaviour
 
 
         // if the player presses the correct button move them
-        if (PlayerGaveExpectedInput())
+        if (movePlayer)
         {
-            //TODO: Replace this 50 with a variable relating to the strength stat
-            Vector2 finalForce = slopeDirection * (stepLength * (1 - weight));
+            //set move player flag to false to stop them being moved on the next fixed update
+            movePlayer = false;
+
+            //calculate the final force to move the player
+            Vector2 finalForce = slopeDirection * stepLength;
 
             //reset velocity to prevent spamming
-            myRigidBody.linearVelocity = Vector2.zero;
+            //myRigidBody.linearVelocity = Vector2.zero;
 
             //move the player
             myRigidBody.AddForce(finalForce, ForceMode2D.Impulse);
 
-            //update the expected input
-            expectedInput = UpdateExpectedInput();
+            //myAnimator.Play("FullWeightWalk");
+            PlayWalkAnimation();
+
         }
 
 
@@ -51,16 +121,8 @@ public class PlayerController : MonoBehaviour
     //checks if the player pressed the correct button to move
     private bool PlayerGaveExpectedInput()
     {
-        switch (expectedInput) 
-        {
-            case WhaleButton.L_Button:
-                return WhalesongInput.GetButton(myInstanceNumber, WhaleButton.L_Button);
-
-            case WhaleButton.R_Button:
-                return WhalesongInput.GetButton(myInstanceNumber, WhaleButton.R_Button);
-        }
-
-        return false;
+        //return if the left or right buttons were pressed this frame
+        return (WhalesongInput.GetButtonDown(myInstanceNumber, WhaleButton.L_Button) || WhalesongInput.GetButtonDown(myInstanceNumber, WhaleButton.R_Button));
     }
 
     //place holder, just switches the cuurrent expected button to the other button
@@ -122,5 +184,31 @@ public class PlayerController : MonoBehaviour
         GetComponent<SpriteRenderer>().color = intanceManager.GetPlayerColor(myInstanceNumber);
     }
 
+    public void OnInputTimerTimeout()
+    {
+        //allows the player to be moved
+        moveable = true;
+    }
 
+    private void PlayWalkAnimation()
+    {
+        switch (weight)
+        {
+            case PlayerWeight.FullWeight:
+                myAnimator.Play("FullWeightWalk");
+                break;
+            case PlayerWeight.MinusOne:
+                myAnimator.Play("MinusOneWalk");
+                break;
+            case PlayerWeight.MinusTwo:
+                myAnimator.Play("MinusTwoWalk");
+                break;
+        }
+    }
+
+    public void SetPlayerWeight(PlayerWeight newWeight)
+    {
+        weight = newWeight;
+        myAnimator.SetInteger("PlayerWeight", (int)newWeight);
+    }
 }
