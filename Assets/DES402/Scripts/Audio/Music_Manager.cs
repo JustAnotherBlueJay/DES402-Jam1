@@ -28,24 +28,6 @@ public class Music_Manager : MonoBehaviour
     }
     void Start()
     {
-        //Track1.Play();
-        //Track2.Play();
-        //Track3.Play();
-        //Track4.Play();
-        //Track5.Play();
-        //Track6.Play();
-        //Track7.Play();
-        //Track8.Play();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    public void StartMusic()
-    {
         Track1.Play();
         Track2.Play();
         Track3.Play();
@@ -56,15 +38,33 @@ public class Music_Manager : MonoBehaviour
         Track8.Play();
     }
 
-    public void StopMusic()
+    // Update is called once per frame
+    void Update()
     {
-        Track1.Stop();
-        Track2.Stop();
-        Track3.Stop();
-        Track4.Stop(); 
-        Track5.Stop();
-        Track6.Stop(); 
-        Track7.Stop();
-        Track8.Stop();
+        
     }
+
+    //public void StartMusic()
+    //{
+    //    Track1.Play();
+    //    Track2.Play();
+    //    Track3.Play();
+    //    Track4.Play();
+    //    Track5.Play();
+    //    Track6.Play();
+    //    Track7.Play();
+    //    Track8.Play();
+    //}
+
+    //public void StopMusic()
+    //{
+    //    Track1.Stop();
+    //    Track2.Stop();
+    //    Track3.Stop();
+    //    Track4.Stop(); 
+    //    Track5.Stop();
+    //    Track6.Stop(); 
+    //    Track7.Stop();
+    //    Track8.Stop();
+    //}
 }

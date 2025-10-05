@@ -89,7 +89,6 @@ public class InstanceManager : MonoBehaviour
         titleScreen.enabled = false;
         playerScript.enabled = true;
 
-        musicManager.StartMusic();
 
     }
 
@@ -111,7 +110,6 @@ public class InstanceManager : MonoBehaviour
         endScreen.enabled = false;
         playerScript.enabled = false;
 
-        musicManager.StopMusic();
     }
 
     public void TransitionToEndScreen()
@@ -132,6 +130,5 @@ public class InstanceManager : MonoBehaviour
         endScreen.enabled = true;
         playerScript.enabled = false;
 
-        //musicManager.StopMusic();
     }
 }
