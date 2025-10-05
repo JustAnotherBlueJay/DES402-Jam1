@@ -86,6 +86,7 @@ public class InstanceManager : MonoBehaviour
         {
             transform.GetChild(i).gameObject.SetActive(true);
         }
+        titleScreen.enabled = false;
         playerScript.enabled = true;
 
         musicManager.StartMusic();
@@ -106,7 +107,7 @@ public class InstanceManager : MonoBehaviour
 
 
         }
-        titleScreen.gameObject.SetActive(true);
+        titleScreen.enabled = true;
         endScreen.enabled = false;
         playerScript.enabled = false;
 

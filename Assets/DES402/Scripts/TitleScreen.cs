@@ -23,6 +23,16 @@ public class TitleScreen : MonoBehaviour
     {
         
     }
+    private void OnEnable()
+    {
+        background.enabled = true;
+    }
+    private void OnDisable()
+    {
+        background.enabled = false;
+        fillLoadingBar = false;
+        timeElapsed = 0;
+    }
 
     // Update is called once per frame
     void Update()
@@ -40,8 +50,7 @@ public class TitleScreen : MonoBehaviour
                 RestartTitleScreen();
                 //start the game
                 instanceManager.TransitionToGame();
-                //turn this object off
-                gameObject.SetActive(false);
+
             }
         }
         //if we arent filling the loading bar then we are on the title screen
