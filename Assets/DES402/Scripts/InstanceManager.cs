@@ -87,4 +87,24 @@ public class InstanceManager : MonoBehaviour
         musicManager.StartMusic();
 
     }
+
+    public void TransitionToTitle()
+    {
+        gameState = GameState.TitleScreen;
+
+        //turn everything but player off since it has the camera
+        for (int i = 0;i < transform.childCount; i++)
+        {
+            if (transform.GetChild(i).name != "Player")
+            {
+                transform.GetChild(i).gameObject.SetActive(false);
+            }
+
+
+        }
+        titleScreen.gameObject.SetActive(true);
+        playerScript.enabled = false;
+
+        musicManager.StopMusic();
+    }
 }

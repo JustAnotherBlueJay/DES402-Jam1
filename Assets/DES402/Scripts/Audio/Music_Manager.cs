@@ -55,4 +55,16 @@ public class Music_Manager : MonoBehaviour
         Track7.Play();
         Track8.Play();
     }
+
+    public void StopMusic()
+    {
+        Track1.Stop();
+        Track2.Stop();
+        Track3.Stop();
+        Track4.Stop(); 
+        Track5.Stop();
+        Track6.Stop(); 
+        Track7.Stop();
+        Track8.Stop();
+    }
 }

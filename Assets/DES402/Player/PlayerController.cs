@@ -37,7 +37,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private InstanceUIManager UIManager;
 
     //the button the player needs to press to move
-    private WhaleButton expectedInput = WhaleButton.L_Button;
+    //private WhaleButton expectedInput = WhaleButton.L_Button;
+
+    [SerializeField] private Timer playerInactiveTimer;
 
     private void Awake()
     {
@@ -45,6 +47,8 @@ public class PlayerController : MonoBehaviour
         myAnimator = GetComponent<Animator>();
 
         inputPauseTime = inputPauseTimes[0];
+
+
     }
 
     private void Start()
@@ -60,6 +64,9 @@ public class PlayerController : MonoBehaviour
     private void OnEnable()
     {
         myRigidBody.simulated = true;
+
+        playerInactiveTimer.OnTimeout = PlayerInactive;
+        playerInactiveTimer.StartTimer();
     }
 
     // Update is called once per frame
@@ -78,6 +85,10 @@ public class PlayerController : MonoBehaviour
             //this is because physics forces shouldnt be applied in update
             movePlayer = true;
             PlayWalkAnimation();
+
+            //restart the inactivity timer
+            playerInactiveTimer.StartTimer();
+
 
             //start the input delay
             moveable = false;
@@ -142,20 +153,20 @@ public class PlayerController : MonoBehaviour
     }
 
     //place holder, just switches the cuurrent expected button to the other button
-    private WhaleButton UpdateExpectedInput()
-    {
-        //TODO: replace this with a timer that alternates between the expected buttons
-        switch(expectedInput)
-        {
-            case WhaleButton.L_Button:
-                return WhaleButton.R_Button;
-            case WhaleButton.R_Button:
-                return WhaleButton.L_Button;
+    //private WhaleButton UpdateExpectedInput()
+    //{
+    //    //TODO: replace this with a timer that alternates between the expected buttons
+    //    switch(expectedInput)
+    //    {
+    //        case WhaleButton.L_Button:
+    //            return WhaleButton.R_Button;
+    //        case WhaleButton.R_Button:
+    //            return WhaleButton.L_Button;
 
-        }
+    //    }
 
-        return WhaleButton.L_Button;
-    }
+    //    return WhaleButton.L_Button;
+    //}
 
     //if the player is touching the slope ignore gravity and stop any sliding
     private void StickToSlope()
@@ -240,5 +251,11 @@ public class PlayerController : MonoBehaviour
         int newWeight = (int)weight + 1;
 
         SetPlayerWeight((PlayerWeight)newWeight);
+    }
+
+    private void PlayerInactive()
+    {
+        print("PlayerInactive");
+        intanceManager.TransitionToTitle();
     }
 }
