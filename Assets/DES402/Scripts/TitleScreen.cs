@@ -1,4 +1,5 @@
 using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
@@ -10,7 +11,7 @@ public class TitleScreen : MonoBehaviour
 
     [SerializeField] private Image background;
     [SerializeField] private Slider loadingBar;
-
+    [SerializeField] private TextMeshProUGUI loadingText;
     private bool fillLoadingBar;
     private float timeElapsed;
 
@@ -54,8 +55,10 @@ public class TitleScreen : MonoBehaviour
 
     public void StartLoadingScreen()
     {
-        background.color = Color.black;
+        background.sprite = null;
+        background.color = Color.gray2;
         loadingBar.gameObject.SetActive(true);
+        loadingText.gameObject.SetActive(true);
         fillLoadingBar = true;
     }
 

@@ -1,0 +1,7462 @@
+fileFormatVersion: 2
+guid: 0f3f25bcafa44124583316832ace7e0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5472260766484571922
+    second: ruler_9_0
+  - first:
+      213: 8499801563935435132
+    second: ruler_9_1
+  - first:
+      213: 143047784642670682
+    second: ruler_9_2
+  - first:
+      213: -7818903100520643521
+    second: ruler_9_3
+  - first:
+      213: 8319020573415025451
+    second: ruler_9_4
+  - first:
+      213: -7676338306147786331
+    second: ruler_9_5
+  - first:
+      213: 4980084836395167839
+    second: ruler_9_6
+  - first:
+      213: 648726248904862145
+    second: ruler_9_7
+  - first:
+      213: 4025339249269227130
+    second: ruler_9_8
+  - first:
+      213: -2768796904583830409
+    second: ruler_9_9
+  - first:
+      213: -7307754177198566978
+    second: ruler_9_10
+  - first:
+      213: -5911253477024094202
+    second: ruler_9_11
+  - first:
+      213: 3762108967425883340
+    second: ruler_9_12
+  - first:
+      213: -264159630598783750
+    second: ruler_9_13
+  - first:
+      213: -5346972206807334208
+    second: ruler_9_14
+  - first:
+      213: 8286464292503807397
+    second: ruler_9_15
+  - first:
+      213: -4759238908440958144
+    second: ruler_9_16
+  - first:
+      213: 2370538460159997932
+    second: ruler_9_17
+  - first:
+      213: -2796388331068394933
+    second: ruler_9_18
+  - first:
+      213: -617376857908759945
+    second: ruler_9_19
+  - first:
+      213: 4225353466462657195
+    second: ruler_9_20
+  - first:
+      213: -8296328439331409771
+    second: ruler_9_21
+  - first:
+      213: -1384237150810013187
+    second: ruler_9_22
+  - first:
+      213: 5951972685139704084
+    second: ruler_9_23
+  - first:
+      213: 8823128191548153727
+    second: ruler_9_24
+  - first:
+      213: 4228318229367758444
+    second: ruler_9_25
+  - first:
+      213: -2766146365349880462
+    second: ruler_9_26
+  - first:
+      213: 7959218470560187960
+    second: ruler_9_27
+  - first:
+      213: -4915139623444896250
+    second: ruler_9_28
+  - first:
+      213: -5519080120817772589
+    second: ruler_9_29
+  - first:
+      213: 4885894274425350420
+    second: ruler_9_30
+  - first:
+      213: 421253402798668313
+    second: ruler_9_31
+  - first:
+      213: 3193953777030251431
+    second: ruler_9_32
+  - first:
+      213: -233258981742588669
+    second: ruler_9_33
+  - first:
+      213: 2130861951491339482
+    second: ruler_9_34
+  - first:
+      213: 5604531286011654911
+    second: ruler_9_35
+  - first:
+      213: -7108515437102980286
+    second: ruler_9_36
+  - first:
+      213: 501946886940176616
+    second: ruler_9_37
+  - first:
+      213: 4916910730650997076
+    second: ruler_9_38
+  - first:
+      213: 4128679394702144973
+    second: ruler_9_39
+  - first:
+      213: -8371075689340321873
+    second: ruler_9_40
+  - first:
+      213: -902672954144598586
+    second: ruler_9_41
+  - first:
+      213: 1646013330827372671
+    second: ruler_9_42
+  - first:
+      213: -1981628200994061242
+    second: ruler_9_43
+  - first:
+      213: -8931242966427859349
+    second: ruler_9_44
+  - first:
+      213: 1047374226439484084
+    second: ruler_9_45
+  - first:
+      213: 2367732398655133048
+    second: ruler_9_46
+  - first:
+      213: 8707235610339310048
+    second: ruler_9_47
+  - first:
+      213: 693338287586653628
+    second: ruler_9_48
+  - first:
+      213: 8995801799359791280
+    second: ruler_9_49
+  - first:
+      213: -2992881592414691993
+    second: ruler_9_50
+  - first:
+      213: 6545635156606020453
+    second: ruler_9_51
+  - first:
+      213: -7020460528506951378
+    second: ruler_9_52
+  - first:
+      213: 803323579104452220
+    second: ruler_9_53
+  - first:
+      213: 3218580890144206110
+    second: ruler_9_54
+  - first:
+      213: 4984965595578480162
+    second: ruler_9_55
+  - first:
+      213: -4910453711449385538
+    second: ruler_9_56
+  - first:
+      213: -4252064605847960544
+    second: ruler_9_57
+  - first:
+      213: -5301131781705144250
+    second: ruler_9_58
+  - first:
+      213: 6076368927568329526
+    second: ruler_9_59
+  - first:
+      213: -360819933285662028
+    second: ruler_9_60
+  - first:
+      213: 8253881151387837932
+    second: ruler_9_61
+  - first:
+      213: 7599259595901314943
+    second: ruler_9_62
+  - first:
+      213: -4360902256784837039
+    second: ruler_9_63
+  - first:
+      213: -2086890761986936704
+    second: ruler_9_64
+  - first:
+      213: -3020423227520505203
+    second: ruler_9_65
+  - first:
+      213: -3917566937187710129
+    second: ruler_9_66
+  - first:
+      213: -7763885822378998352
+    second: ruler_9_67
+  - first:
+      213: 688837070288430448
+    second: ruler_9_68
+  - first:
+      213: -6057071956492249286
+    second: ruler_9_69
+  - first:
+      213: 1659011783895976192
+    second: ruler_9_70
+  - first:
+      213: 7534173836797324184
+    second: ruler_9_71
+  - first:
+      213: -6249558172749756799
+    second: ruler_9_72
+  - first:
+      213: 485316319355391631
+    second: ruler_9_73
+  - first:
+      213: -7692441799651055533
+    second: ruler_9_74
+  - first:
+      213: 4853779112314415807
+    second: ruler_9_75
+  - first:
+      213: 1323858233502126279
+    second: ruler_9_76
+  - first:
+      213: 2653303790574672653
+    second: ruler_9_77
+  - first:
+      213: -8782574488538814422
+    second: ruler_9_78
+  - first:
+      213: 5666451410479385419
+    second: ruler_9_79
+  - first:
+      213: -9213585283495320475
+    second: ruler_9_80
+  - first:
+      213: 8603809643283355494
+    second: ruler_9_81
+  - first:
+      213: -1413310921513195809
+    second: ruler_9_82
+  - first:
+      213: 5196736639034687752
+    second: ruler_9_83
+  - first:
+      213: 4772654224100802750
+    second: ruler_9_84
+  - first:
+      213: -5990552418562699654
+    second: ruler_9_85
+  - first:
+      213: -6695450156661112502
+    second: ruler_9_86
+  - first:
+      213: -651958543877727708
+    second: ruler_9_87
+  - first:
+      213: 4383741935097046446
+    second: ruler_9_88
+  - first:
+      213: 2276902394453201787
+    second: ruler_9_89
+  - first:
+      213: 481649358343490870
+    second: ruler_9_90
+  - first:
+      213: 2643984918164477059
+    second: ruler_9_91
+  - first:
+      213: 6672436401134530294
+    second: ruler_9_92
+  - first:
+      213: -5408770450671002003
+    second: ruler_9_93
+  - first:
+      213: 1920580886137687723
+    second: ruler_9_94
+  - first:
+      213: 8015664300813680345
+    second: ruler_9_95
+  - first:
+      213: -6839291461124430878
+    second: ruler_9_96
+  - first:
+      213: 828624600997497200
+    second: ruler_9_97
+  - first:
+      213: -8039933192650225413
+    second: ruler_9_98
+  - first:
+      213: 6375502053605635525
+    second: ruler_9_99
+  - first:
+      213: -5600982465017085411
+    second: ruler_9_100
+  - first:
+      213: 9128724187317903457
+    second: ruler_9_101
+  - first:
+      213: -571549103354263894
+    second: ruler_9_102
+  - first:
+      213: 2895693442754292326
+    second: ruler_9_103
+  - first:
+      213: -3827884119789821542
+    second: ruler_9_104
+  - first:
+      213: 8454887327215040280
+    second: ruler_9_105
+  - first:
+      213: 997010469098581671
+    second: ruler_9_106
+  - first:
+      213: 5590715411092062228
+    second: ruler_9_107
+  - first:
+      213: -1428809528020614551
+    second: ruler_9_108
+  - first:
+      213: 7665524154305344671
+    second: ruler_9_109
+  - first:
+      213: -4410686805368408974
+    second: ruler_9_110
+  - first:
+      213: 5612419802263289141
+    second: ruler_9_111
+  - first:
+      213: 3070532223597099147
+    second: ruler_9_112
+  - first:
+      213: 7017160492875737607
+    second: ruler_9_113
+  - first:
+      213: -3833685461862129687
+    second: ruler_9_114
+  - first:
+      213: -1389180460832902172
+    second: ruler_9_115
+  - first:
+      213: -8624667339802765377
+    second: ruler_9_116
+  - first:
+      213: 4392287181677720000
+    second: ruler_9_117
+  - first:
+      213: 529619164069046907
+    second: ruler_9_118
+  - first:
+      213: 758234560963122105
+    second: ruler_9_119
+  - first:
+      213: -400382019325076253
+    second: ruler_9_120
+  - first:
+      213: -7256194275087290794
+    second: ruler_9_121
+  - first:
+      213: 1570142503235682868
+    second: ruler_9_122
+  - first:
+      213: 569122238422237343
+    second: ruler_9_123
+  - first:
+      213: -1172654213499210816
+    second: ruler_9_124
+  - first:
+      213: 4618136964938198889
+    second: ruler_9_125
+  - first:
+      213: 1078600925142255057
+    second: ruler_9_126
+  - first:
+      213: 812505553288962974
+    second: ruler_9_127
+  - first:
+      213: 4301547924161765062
+    second: ruler_9_128
+  - first:
+      213: 1969415664303764390
+    second: ruler_9_129
+  - first:
+      213: -5005823760315310974
+    second: ruler_9_130
+  - first:
+      213: -51628010598747326
+    second: ruler_9_131
+  - first:
+      213: -6335201505434398556
+    second: ruler_9_132
+  - first:
+      213: -8604377466128039677
+    second: ruler_9_133
+  - first:
+      213: 7429744613313149891
+    second: ruler_9_134
+  - first:
+      213: 2476841831678269780
+    second: ruler_9_135
+  - first:
+      213: -1663517172580914285
+    second: ruler_9_136
+  - first:
+      213: 4462064573150034268
+    second: ruler_9_137
+  - first:
+      213: 4083510447093618837
+    second: ruler_9_138
+  - first:
+      213: -8393678541307704233
+    second: ruler_9_139
+  - first:
+      213: 1503170820464808601
+    second: ruler_9_140
+  - first:
+      213: 2986239435645411354
+    second: ruler_9_141
+  - first:
+      213: -6902901822065137523
+    second: ruler_9_142
+  - first:
+      213: -6579939985882159455
+    second: ruler_9_143
+  - first:
+      213: 891193668532853118
+    second: ruler_9_144
+  - first:
+      213: 8895647196674529267
+    second: ruler_9_145
+  - first:
+      213: -3492931911859335007
+    second: ruler_9_146
+  - first:
+      213: 4611203801720509845
+    second: ruler_9_147
+  - first:
+      213: 1665669926353871738
+    second: ruler_9_148
+  - first:
+      213: -7605567742322789029
+    second: ruler_9_149
+  - first:
+      213: 6704790542858910287
+    second: ruler_9_150
+  - first:
+      213: 5427411831672989336
+    second: ruler_9_151
+  - first:
+      213: 8182591850197096019
+    second: ruler_9_152
+  - first:
+      213: 7954501348255913800
+    second: ruler_9_153
+  - first:
+      213: 5814594695690590826
+    second: ruler_9_154
+  - first:
+      213: -5885193800291891640
+    second: ruler_9_155
+  - first:
+      213: -3528787245206871231
+    second: ruler_9_156
+  - first:
+      213: 6020108168126711956
+    second: ruler_9_157
+  - first:
+      213: -6241524136995612389
+    second: ruler_9_158
+  - first:
+      213: 8820447481111114067
+    second: ruler_9_159
+  - first:
+      213: -4462867255463490549
+    second: ruler_9_160
+  - first:
+      213: 6250130999753097121
+    second: ruler_9_161
+  - first:
+      213: 7614007097242512693
+    second: ruler_9_162
+  - first:
+      213: 902949223621993735
+    second: ruler_9_163
+  - first:
+      213: 2446060212959610389
+    second: ruler_9_164
+  - first:
+      213: 3220995542527257165
+    second: ruler_9_165
+  - first:
+      213: 4620622493237222339
+    second: ruler_9_166
+  - first:
+      213: 4559930149817289318
+    second: ruler_9_167
+  - first:
+      213: -8062630026908170854
+    second: ruler_9_168
+  - first:
+      213: 4115427328874955737
+    second: ruler_9_169
+  - first:
+      213: 8540930726316829517
+    second: ruler_9_170
+  - first:
+      213: -9203212162623027245
+    second: ruler_9_171
+  - first:
+      213: 2764385669073537736
+    second: ruler_9_172
+  - first:
+      213: 785334814153225475
+    second: ruler_9_173
+  - first:
+      213: -8112523565942367420
+    second: ruler_9_174
+  - first:
+      213: -7075491216077319736
+    second: ruler_9_175
+  - first:
+      213: -723627333230113753
+    second: ruler_9_176
+  - first:
+      213: -6143118177369355083
+    second: ruler_9_177
+  - first:
+      213: -2352899493161004185
+    second: ruler_9_178
+  - first:
+      213: -2862680807801331862
+    second: ruler_9_179
+  - first:
+      213: -1651616104915558722
+    second: ruler_9_180
+  - first:
+      213: 2978787554039168806
+    second: ruler_9_181
+  - first:
+      213: 855302763621506140
+    second: ruler_9_182
+  - first:
+      213: -8169226600519442486
+    second: ruler_9_183
+  - first:
+      213: -1393100269127377454
+    second: ruler_9_184
+  - first:
+      213: 4605260098427502060
+    second: ruler_9_185
+  - first:
+      213: -7385540176620128362
+    second: ruler_9_186
+  - first:
+      213: 6521545144788447187
+    second: ruler_9_187
+  - first:
+      213: 6767225335439652115
+    second: ruler_9_188
+  - first:
+      213: 4241415973183290978
+    second: ruler_9_189
+  - first:
+      213: 3067519668552041336
+    second: ruler_9_190
+  - first:
+      213: 9037015740270640033
+    second: ruler_9_191
+  - first:
+      213: -5508955147591246933
+    second: ruler_9_192
+  - first:
+      213: 5803007820502397471
+    second: ruler_9_193
+  - first:
+      213: -403455336885666416
+    second: ruler_9_194
+  - first:
+      213: 8556853350410733689
+    second: ruler_9_195
+  - first:
+      213: -655988305041691786
+    second: ruler_9_196
+  - first:
+      213: 7514994416602973793
+    second: ruler_9_197
+  - first:
+      213: 4930073713229090578
+    second: ruler_9_198
+  - first:
+      213: 2335884549436989558
+    second: ruler_9_199
+  - first:
+      213: 3275819210458765832
+    second: ruler_9_200
+  - first:
+      213: -1164010197965714037
+    second: ruler_9_201
+  - first:
+      213: 8198184368643072042
+    second: ruler_9_202
+  - first:
+      213: -1709616970563946627
+    second: ruler_9_203
+  - first:
+      213: 4668785680529906305
+    second: ruler_9_204
+  - first:
+      213: -481577051493499028
+    second: ruler_9_205
+  - first:
+      213: 1615425020053434030
+    second: ruler_9_206
+  - first:
+      213: 9167577920755985775
+    second: ruler_9_207
+  - first:
+      213: 4801359639143209109
+    second: ruler_9_208
+  - first:
+      213: -2212380975065609213
+    second: ruler_9_209
+  - first:
+      213: -7667324796388079735
+    second: ruler_9_210
+  - first:
+      213: 6223058912983151822
+    second: ruler_9_211
+  - first:
+      213: 5849623538721890614
+    second: ruler_9_212
+  - first:
+      213: -3708672621904703467
+    second: ruler_9_213
+  - first:
+      213: -8434111143270267261
+    second: ruler_9_214
+  - first:
+      213: 2488619798089942280
+    second: ruler_9_215
+  - first:
+      213: -1899657502270876444
+    second: ruler_9_216
+  - first:
+      213: -8893434025028402171
+    second: ruler_9_217
+  - first:
+      213: -5393059953945594871
+    second: ruler_9_218
+  - first:
+      213: -7023929599722706183
+    second: ruler_9_219
+  - first:
+      213: 8246703118113144868
+    second: ruler_9_220
+  - first:
+      213: -762394310289723795
+    second: ruler_9_221
+  - first:
+      213: 5394308150814214063
+    second: ruler_9_222
+  - first:
+      213: -64089684272820963
+    second: ruler_9_223
+  - first:
+      213: -6556154307833734365
+    second: ruler_9_224
+  - first:
+      213: 6627671561585911893
+    second: ruler_9_225
+  - first:
+      213: -2092108364585990575
+    second: ruler_9_226
+  - first:
+      213: 967551161432621435
+    second: ruler_9_227
+  - first:
+      213: -2286668864395688850
+    second: ruler_9_228
+  - first:
+      213: -2445756444618077206
+    second: ruler_9_229
+  - first:
+      213: -5133998793005022884
+    second: ruler_9_230
+  - first:
+      213: 1255059906130576138
+    second: ruler_9_231
+  - first:
+      213: -3805834977023960023
+    second: ruler_9_232
+  - first:
+      213: -1183616239044428318
+    second: ruler_9_233
+  - first:
+      213: 1139967751600934704
+    second: ruler_9_234
+  - first:
+      213: -4573638290702109730
+    second: ruler_9_235
+  - first:
+      213: 6837466575672401798
+    second: ruler_9_236
+  - first:
+      213: -8505837817582910284
+    second: ruler_9_237
+  - first:
+      213: -3947832273722361921
+    second: ruler_9_238
+  - first:
+      213: -8820417213794480938
+    second: ruler_9_239
+  - first:
+      213: 8138431030376921701
+    second: ruler_9_240
+  - first:
+      213: -6926808357541370963
+    second: ruler_9_241
+  - first:
+      213: 1983284516412739071
+    second: ruler_9_242
+  - first:
+      213: 4350704009434925206
+    second: ruler_9_243
+  - first:
+      213: 6475800614985826075
+    second: ruler_9_244
+  - first:
+      213: 2533637067499801775
+    second: ruler_9_245
+  - first:
+      213: -415077482572535785
+    second: ruler_9_246
+  - first:
+      213: 4804245327782343056
+    second: ruler_9_247
+  - first:
+      213: -5392649637845982799
+    second: ruler_9_248
+  - first:
+      213: 2088015979613505479
+    second: ruler_9_249
+  - first:
+      213: 1115485478652717470
+    second: ruler_9_250
+  - first:
+      213: -7532494602421648281
+    second: ruler_9_251
+  - first:
+      213: 8218090438593671209
+    second: ruler_9_252
+  - first:
+      213: -2890467207927788936
+    second: ruler_9_253
+  - first:
+      213: -8084913214094712772
+    second: ruler_9_254
+  - first:
+      213: -299269845648437662
+    second: ruler_9_255
+  - first:
+      213: 8558736508138453938
+    second: ruler_9_256
+  - first:
+      213: -5990109073583838572
+    second: ruler_9_257
+  - first:
+      213: 6213017360636225734
+    second: ruler_9_258
+  - first:
+      213: -4359435195909288619
+    second: ruler_9_259
+  - first:
+      213: 8827962914183858249
+    second: ruler_9_260
+  - first:
+      213: 8142655190027543238
+    second: ruler_9_261
+  - first:
+      213: 5138666083330315677
+    second: ruler_9_262
+  - first:
+      213: -7308209931480928246
+    second: ruler_9_263
+  - first:
+      213: -496101163212808325
+    second: ruler_9_264
+  - first:
+      213: -8473480361388197251
+    second: ruler_9_265
+  - first:
+      213: 3701184196837275548
+    second: ruler_9_266
+  - first:
+      213: -533050202601776113
+    second: ruler_9_267
+  - first:
+      213: 9140625207455176657
+    second: ruler_9_268
+  - first:
+      213: 6468914307448252401
+    second: ruler_9_269
+  - first:
+      213: 3693883589009725637
+    second: ruler_9_270
+  - first:
+      213: -3903378520540421524
+    second: ruler_9_271
+  - first:
+      213: -9211334510840363823
+    second: ruler_9_272
+  - first:
+      213: 1760615043406706136
+    second: ruler_9_273
+  - first:
+      213: 203874302090504886
+    second: ruler_9_274
+  - first:
+      213: 7266595957260149725
+    second: ruler_9_275
+  - first:
+      213: -5510065265704423265
+    second: ruler_9_276
+  - first:
+      213: -7065117175086313932
+    second: ruler_9_277
+  - first:
+      213: -8639680991619857804
+    second: ruler_9_278
+  - first:
+      213: 2951824330308258884
+    second: ruler_9_279
+  - first:
+      213: -2476809714066539700
+    second: ruler_9_280
+  - first:
+      213: -3039122696995116481
+    second: ruler_9_281
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ruler_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8516f73df9e04b0800000000000000
+      internalID: -5472260766484571922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c796eaf0d7c55f570800000000000000
+      internalID: 8499801563935435132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a507885c3353cf100800000000000000
+      internalID: 143047784642670682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3444407e0dad7390800000000000000
+      internalID: -7818903100520643521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba19da229137370800000000000000
+      internalID: 8319020573415025451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a166564bfa287590800000000000000
+      internalID: -7676338306147786331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50b4a8e5c0dc1540800000000000000
+      internalID: 4980084836395167839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c92276161db00900800000000000000
+      internalID: 648726248904862145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 179
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e312558b0ecd730800000000000000
+      internalID: 4025339249269227130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774641f82e14399d0800000000000000
+      internalID: -2768796904583830409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d3324b44a59a90800000000000000
+      internalID: -7307754177198566978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 163
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608afa4284207fda0800000000000000
+      internalID: -5911253477024094202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc3bb16c22b53430800000000000000
+      internalID: 3762108967425883340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc392e2734855cf0800000000000000
+      internalID: -264159630598783750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2cc5d7b1dbbc5b0800000000000000
+      internalID: -5346972206807334208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5e5a6de5f6ff270800000000000000
+      internalID: 8286464292503807397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba825ad69c3fdb0800000000000000
+      internalID: -4759238908440958144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7fc3c7b28d5e020800000000000000
+      internalID: 2370538460159997932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42fe98f0ab3139d0800000000000000
+      internalID: -2796388331068394933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723dcbc403ae67f0800000000000000
+      internalID: -617376857908759945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad8f2479873aa30800000000000000
+      internalID: 4225353466462657195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 179
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5903ea18d358ddc80800000000000000
+      internalID: -8296328439331409771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1021535a33acce0800000000000000
+      internalID: -1384237150810013187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419749a4f97a99250800000000000000
+      internalID: 5951972685139704084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f56f0e75c027a70800000000000000
+      internalID: 8823128191548153727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e16cae6010eaa30800000000000000
+      internalID: 4228318229367758444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1590598cac99d0800000000000000
+      internalID: -2766146365349880462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836c77b7703d47e60800000000000000
+      internalID: 7959218470560187960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606ae13dd8ae9cbb0800000000000000
+      internalID: -4915139623444896250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d79cb71fd94863b0800000000000000
+      internalID: -5519080120817772589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ec3db4fe2ec340800000000000000
+      internalID: 4885894274425350420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 162
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a3d3aecb798d500800000000000000
+      internalID: 421253402798668313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 161
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3c7e4b904335c20800000000000000
+      internalID: 3193953777030251431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d4094213c43ccf0800000000000000
+      internalID: -233258981742588669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 163
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad47904b7a7529d10800000000000000
+      internalID: 2130861951491339482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 161
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b943b28b47cd40800000000000000
+      internalID: 5604531286011654911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a81b5fda795d90800000000000000
+      internalID: -7108515437102980286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0be24c80647f600800000000000000
+      internalID: 501946886940176616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45152c432406c3440800000000000000
+      internalID: 4916910730650997076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc532b8e8040c4930800000000000000
+      internalID: 4128679394702144973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 147
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf36fc2307f3db80800000000000000
+      internalID: -8371075689340321873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 161
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5dbd31bbf0973f0800000000000000
+      internalID: -902672954144598586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 154
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e5874760d7d610800000000000000
+      internalID: 1646013330827372671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6444ada76a7df74e0800000000000000
+      internalID: -1981628200994061242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 163
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b668c5f77d9dd0480800000000000000
+      internalID: -8931242966427859349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b233d94f45098e00800000000000000
+      internalID: 1047374226439484084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 163
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875d5016210ebd020800000000000000
+      internalID: 2367732398655133048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 163
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f7e997a056d870800000000000000
+      internalID: 8707235610339310048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 163
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5b7c4cf7b3f9900800000000000000
+      internalID: 693338287586653628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_49
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 161
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b009a0231287dc70800000000000000
+      internalID: 8995801799359791280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_50
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 163
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d11557c062776d0800000000000000
+      internalID: -2992881592414691993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b6fc2ae74c6da50800000000000000
+      internalID: 6545635156606020453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2921b66850529e90800000000000000
+      internalID: -7020460528506951378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e573cf98af52b00800000000000000
+      internalID: 803323579104452220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de7ed4442baac20800000000000000
+      internalID: 3218580890144206110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226bff53cc72e2540800000000000000
+      internalID: 4984965595578480162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb59f0bbd509adbb0800000000000000
+      internalID: -4910453711449385538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024cb66f4c1adf4c0800000000000000
+      internalID: -4252064605847960544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6486eeb2bb89e66b0800000000000000
+      internalID: -5301131781705144250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b7eeb7859935450800000000000000
+      internalID: 6076368927568329526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c0a0be2c1efaf0800000000000000
+      internalID: -360819933285662028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 147
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5a3ce1d2dab8270800000000000000
+      internalID: 8253881151387837932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772da1075ef57960800000000000000
+      internalID: 7599259595901314943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_63
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 149
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156f324a086fa73c0800000000000000
+      internalID: -4360902256784837039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_64
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 149
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08079b6a8efd903e0800000000000000
+      internalID: -2086890761986936704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a2d44d31d4516d0800000000000000
+      internalID: -3020423227520505203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_66
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 146
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b8c1570a102a9c0800000000000000
+      internalID: -3917566937187710129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 129
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b58868baf2214490800000000000000
+      internalID: -7763885822378998352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a9a27aad3f8900800000000000000
+      internalID: 688837070288430448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a379c46b525f0fba0800000000000000
+      internalID: -6057071956492249286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 122
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0098e497d6ef50710800000000000000
+      internalID: 1659011783895976192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 122
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ba852df23ce8860800000000000000
+      internalID: 7534173836797324184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 133
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1868c1614fb1549a0800000000000000
+      internalID: -6249558172749756799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_73
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 132
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec0e20f903cb600800000000000000
+      internalID: 485316319355391631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ae6480f4fe3590800000000000000
+      internalID: -7692441799651055533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 129
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba26bfd2661c5340800000000000000
+      internalID: 4853779112314415807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 131
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0dedc9c0a4f5210800000000000000
+      internalID: 1323858233502126279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b966e5dbd62d420800000000000000
+      internalID: 2653303790574672653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 136
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a286c35e8070e1680800000000000000
+      internalID: -8782574488538814422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 115
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b82a2298743ae40800000000000000
+      internalID: 5666451410479385419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_80
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 131
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564ae751005c22080800000000000000
+      internalID: -9213585283495320475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 131
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6671cfe194fd66770800000000000000
+      internalID: 8603809643283355494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6a6067439e26ce0800000000000000
+      internalID: -1413310921513195809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8018be090748e1840800000000000000
+      internalID: 5196736639034687752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 131
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0cb4feabfdb3240800000000000000
+      internalID: 4772654224100802750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 130
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e863b80584ddca0800000000000000
+      internalID: -5990552418562699654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 131
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4181e87e8bf413a0800000000000000
+      internalID: -6695450156661112502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_87
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 130
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a13e79827c3f6f0800000000000000
+      internalID: -651958543877727708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_88
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 129
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5617c501e26dc30800000000000000
+      internalID: 4383741935097046446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739e990aae299f10800000000000000
+      internalID: 2276902394453201787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dcb5e1a892fa600800000000000000
+      internalID: 481649358343490870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 99
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841fae464251b420800000000000000
+      internalID: 2643984918164477059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 99
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe62040e81499c50800000000000000
+      internalID: 6672436401134530294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 115
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e10289eef20f4b0800000000000000
+      internalID: -5408770450671002003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 115
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae44a8e32647aa10800000000000000
+      internalID: 1920580886137687723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_95
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 99
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de77c8763c5d3f60800000000000000
+      internalID: 8015664300813680345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_96
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e058f6a4f511a0800000000000000
+      internalID: -6839291461124430878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_97
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0790b923faddf7b00800000000000000
+      internalID: 828624600997497200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_98
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf80632db5b6c6090800000000000000
+      internalID: -8039933192650225413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_99
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ffe1c6555a7850800000000000000
+      internalID: 6375502053605635525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_100
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1207739f105542b0800000000000000
+      internalID: -5600982465017085411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_101
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160a995484ebfae70800000000000000
+      internalID: 9128724187317903457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_102
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 113
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa640e26e137118f0800000000000000
+      internalID: -571549103354263894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_103
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 115
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2cc918d19f2820800000000000000
+      internalID: 2895693442754292326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_104
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 113
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91a19e8caf90eac0800000000000000
+      internalID: -3827884119789821542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_105
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817ba9a6a3bc55570800000000000000
+      internalID: 8454887327215040280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 115
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae67ff3db716dd00800000000000000
+      internalID: 997010469098581671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_107
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 115
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410c176ab06369d40800000000000000
+      internalID: 5590715411092062228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_108
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 115
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96243aeed49db2ce0800000000000000
+      internalID: -1428809528020614551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_109
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 115
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94fb8aca99616a60800000000000000
+      internalID: 7665524154305344671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274738628b71ac2c0800000000000000
+      internalID: -4410686805368408974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_111
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d7544031253ed40800000000000000
+      internalID: 5612419802263289141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_112
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 99
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8835eaf9c8bc9a20800000000000000
+      internalID: 3070532223597099147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 99
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a63cd2a46f16160800000000000000
+      internalID: 7017160492875737607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_114
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 99
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efd02952630ccac0800000000000000
+      internalID: -3833685461862129687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e334272bb3a8bce0800000000000000
+      internalID: -1389180460832902172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 99
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb79429ffb60f4880800000000000000
+      internalID: -8624667339802765377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1f66f9be984fc30800000000000000
+      internalID: 4392287181677720000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_118
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a239cd2d5995700800000000000000
+      internalID: 529619164069046907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_119
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b391aed05ac58a00800000000000000
+      internalID: 758234560963122105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecdcabbcae817af0800000000000000
+      internalID: -400382019325076253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_121
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ee23470c1dc4b90800000000000000
+      internalID: -7256194275087290794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_122
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4320b18a9444ac510800000000000000
+      internalID: 1570142503235682868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_123
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90cee619ade5e700800000000000000
+      internalID: 569122238422237343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_124
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3b300b435e9bfe0800000000000000
+      internalID: -1172654213499210816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_125
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fed370a1be61040800000000000000
+      internalID: 4618136964938198889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 99
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d50385a3d5f7fe00800000000000000
+      internalID: 1078600925142255057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_127
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9322d1fe79964b00800000000000000
+      internalID: 812505553288962974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_128
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1bf3eb0b22bb30800000000000000
+      internalID: 4301547924161765062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_129
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a37aedbc15c45b10800000000000000
+      internalID: 1969415664303764390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_130
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 99
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c123edfcdb78ab0800000000000000
+      internalID: -5005823760315310974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_131
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 97
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433dcf0994984ff0800000000000000
+      internalID: -51628010598747326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_132
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a01010dbc7d418a0800000000000000
+      internalID: -6335201505434398556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_133
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 99
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3010012584c179880800000000000000
+      internalID: -8604377466128039677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbf6608c51cb1760800000000000000
+      internalID: 7429744613313149891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d206e5828f5220800000000000000
+      internalID: 2476841831678269780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_136
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 83
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b6d8af1fff9e8e0800000000000000
+      internalID: -1663517172580914285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_137
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 83
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59767796107ced30800000000000000
+      internalID: 4462064573150034268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_138
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5989c93cd1b8ba830800000000000000
+      internalID: 4083510447093618837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_139
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 83
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c098a96d9a38b80800000000000000
+      internalID: -8393678541307704233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_140
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 83
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929986a5e55cd410800000000000000
+      internalID: 1503170820464808601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_141
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1068e7e1f0417920800000000000000
+      internalID: 2986239435645411354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_142
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882960bd57f330a0800000000000000
+      internalID: -6902901822065137523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 83
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6ea12e17b5fa4a0800000000000000
+      internalID: -6579939985882159455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_144
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 83
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795af67be72e5c00800000000000000
+      internalID: 891193668532853118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_145
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f71cf48effa37b70800000000000000
+      internalID: 8895647196674529267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 81
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a09ff8beec968fc0800000000000000
+      internalID: -3492931911859335007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5955b7c2d694eff30800000000000000
+      internalID: 4611203801720509845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_148
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 81
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73af5119f5ad1710800000000000000
+      internalID: 1665669926353871738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_149
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 83
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b553ea33f68937690800000000000000
+      internalID: -7605567742322789029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 83
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4af088a9733c0d50800000000000000
+      internalID: 6704790542858910287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_151
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 83
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896ee942e4a025b40800000000000000
+      internalID: 5427411831672989336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_152
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 83
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356110d3fe76e8170800000000000000
+      internalID: 8182591850197096019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d82cd4d0146e60800000000000000
+      internalID: 7954501348255913800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_154
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 83
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a1285911791b050800000000000000
+      internalID: 5814594695690590826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_155
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 81
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84645437b67935ea0800000000000000
+      internalID: -5885193800291891640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_156
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e38162ba370fc0800000000000000
+      internalID: -3528787245206871231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_157
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 83
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498ce96ab78bb8350800000000000000
+      internalID: 6020108168126711956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_158
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 83
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19995dcdd6a169a0800000000000000
+      internalID: -6241524136995612389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_159
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 83
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351fd975046886a70800000000000000
+      internalID: 8820447481111114067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c406e50e5b012c0800000000000000
+      internalID: -4462867255463490549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb0f7970decb650800000000000000
+      internalID: 6250130999753097121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_162
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 67
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d617c3d136aa960800000000000000
+      internalID: 7614007097242512693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_163
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 67
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705243ce88be78c00800000000000000
+      internalID: 902949223621993735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_164
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5168caccdc622f120800000000000000
+      internalID: 2446060212959610389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_165
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a247f516643bc20800000000000000
+      internalID: 3220995542527257165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_166
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb959e2dafbf1040800000000000000
+      internalID: 4620622493237222339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_167
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a047ccf40284f30800000000000000
+      internalID: 4559930149817289318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_168
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958dba45b8cb1090800000000000000
+      internalID: -8062630026908170854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_169
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3c684e95fec1930800000000000000
+      internalID: 4115427328874955737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_170
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b65596e3b778670800000000000000
+      internalID: 8540930726316829517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_171
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7cc4e7c4f974080800000000000000
+      internalID: -9203212162623027245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_172
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 67
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca0f43ae121d5620800000000000000
+      internalID: 2764385669073537736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_173
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305b9534ad116ea00800000000000000
+      internalID: 785334814153225475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_174
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b150c7cc68a6f80800000000000000
+      internalID: -8112523565942367420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_175
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1905ef93ececd90800000000000000
+      internalID: -7075491216077319736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_176
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 65
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c4e0d36c825f5f0800000000000000
+      internalID: -723627333230113753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_177
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc87a8b0924fbaa0800000000000000
+      internalID: -6143118177369355083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_178
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76311fd8062d85fd0800000000000000
+      internalID: -2352899493161004185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_179
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f5ca1f8f6b548d0800000000000000
+      internalID: -2862680807801331862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_180
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe913937e74419e0800000000000000
+      internalID: -1651616104915558722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_181
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ffbd38f77c65920800000000000000
+      internalID: 2978787554039168806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_182
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 65
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cd119f455aedb00800000000000000
+      internalID: 855302763621506140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_183
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 65
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfdd5270b311ae80800000000000000
+      internalID: -8169226600519442486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_184
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd592aafa6baace0800000000000000
+      internalID: -1393100269127377454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_185
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced3d09e8ab29ef30800000000000000
+      internalID: 4605260098427502060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977e22f65a418990800000000000000
+      internalID: -7385540176620128362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_187
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfe9cda1ce218a50800000000000000
+      internalID: 6521545144788447187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_188
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31577e996930aed50800000000000000
+      internalID: 6767225335439652115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_189
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ef14a0b598cda30800000000000000
+      internalID: 4241415973183290978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_190
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8738199d2e4029a20800000000000000
+      internalID: 3067519668552041336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_191
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abf1748fede96d70800000000000000
+      internalID: 9037015740270640033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_192
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab93402b724c83b0800000000000000
+      internalID: -5508955147591246933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_193
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 51
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12fbd9fddc688050800000000000000
+      internalID: 5803007820502397471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_194
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09db13a3283a66af0800000000000000
+      internalID: -403455336885666416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_195
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978c75a39cc00c670800000000000000
+      internalID: 8556853350410733689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_196
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bed25bc1675e6f0800000000000000
+      internalID: -655988305041691786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_197
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1660aa21b9f9a4860800000000000000
+      internalID: 7514994416602973793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_198
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 51
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fc289ebe32b6440800000000000000
+      internalID: 4930073713229090578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_199
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 51
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670e3852f9aba6020800000000000000
+      internalID: 2335884549436989558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_200
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 51
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9bc3473c067d20800000000000000
+      internalID: 3275819210458765832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_201
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d425364ea98dfe0800000000000000
+      internalID: -1164010197965714037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_202
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2061285f3dc5c170800000000000000
+      internalID: 8198184368643072042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_203
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777e875c683648e0800000000000000
+      internalID: -1709616970563946627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_204
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a5a6417dbdac040800000000000000
+      internalID: 4668785680529906305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_205
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fffb129381159f0800000000000000
+      internalID: -481577051493499028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_206
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae20913f742b6610800000000000000
+      internalID: 1615425020053434030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_207
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6def590c87c93f70800000000000000
+      internalID: 9167577920755985775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_208
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5985702372bd1a240800000000000000
+      internalID: 4801359639143209109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_209
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc161993b0c41e0800000000000000
+      internalID: -2212380975065609213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_210
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878ebd88b0389590800000000000000
+      internalID: -7667324796388079735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_211
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec470b43c1fbc5650800000000000000
+      internalID: 6223058912983151822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6312847ad990e2150800000000000000
+      internalID: 5849623538721890614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_213
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510572756e5288cc0800000000000000
+      internalID: -3708672621904703467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_214
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 35
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386463dd99404fa80800000000000000
+      internalID: -8434111143270267261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_215
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805c726658a598220800000000000000
+      internalID: 2488619798089942280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_216
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 33
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e41d36019f03a5e0800000000000000
+      internalID: -1899657502270876444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_217
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 35
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5044fc8afdc249480800000000000000
+      internalID: -8893434025028402171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_218
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90430b8ab800825b0800000000000000
+      internalID: -5393059953945594871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_219
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa2d215e3df58e90800000000000000
+      internalID: -7023929599722706183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_220
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4208d330bcc227270800000000000000
+      internalID: 8246703118113144868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_221
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ee6640a6e6b65f0800000000000000
+      internalID: -762394310289723795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_222
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa78642deae6cda40800000000000000
+      internalID: 5394308150814214063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_223
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc62f85ce4c1ff0800000000000000
+      internalID: -64089684272820963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_224
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b5cec946cd305a0800000000000000
+      internalID: -6556154307833734365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_225
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558694c9b283afb50800000000000000
+      internalID: 6627671561585911893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_226
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1568a31e68657f2e0800000000000000
+      internalID: -2092108364585990575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_227
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71453fa7ae6d6d00800000000000000
+      internalID: 967551161432621435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_228
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 33
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64cfba78ce1440e0800000000000000
+      internalID: -2286668864395688850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_229
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebca67c87dee0ed0800000000000000
+      internalID: -2445756444618077206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_230
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 35
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51c6a18c4f50c8b0800000000000000
+      internalID: -5133998793005022884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_231
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a038fb4c55eda6110800000000000000
+      internalID: 1255059906130576138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_232
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cdab8a045fe2bc0800000000000000
+      internalID: -3805834977023960023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_233
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed7f593d43f29fe0800000000000000
+      internalID: -1183616239044428318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_234
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 35
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f039951aaf1df00800000000000000
+      internalID: 1139967751600934704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_235
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 35
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3739fe43c2780c0800000000000000
+      internalID: -4573638290702109730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_236
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 35
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f5f86cf9f83ee50800000000000000
+      internalID: 6837466575672401798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_237
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b403ed129135f980800000000000000
+      internalID: -8505837817582910284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7b4fba67b7639c0800000000000000
+      internalID: -3947832273722361921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_239
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc0a01d645979580800000000000000
+      internalID: -8820417213794480938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_240
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af1a227e381f070800000000000000
+      internalID: 8138431030376921701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_241
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da32a85af780fdf90800000000000000
+      internalID: -6926808357541370963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_242
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd405182ca068b10800000000000000
+      internalID: 1983284516412739071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_243
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6988c3dde3ec06c30800000000000000
+      internalID: 4350704009434925206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_244
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f7c7c595aaed950800000000000000
+      internalID: 6475800614985826075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_245
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac86163d79492320800000000000000
+      internalID: 2533637067499801775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_246
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71820019a395d3af0800000000000000
+      internalID: -415077482572535785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_247
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091fb40fbab1ca240800000000000000
+      internalID: 4804245327782343056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_248
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 17
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12d02d9b57925b0800000000000000
+      internalID: -5392649637845982799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_249
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7c33e787f1afc10800000000000000
+      internalID: 2088015979613505479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_250
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99a33bf1200b7f00800000000000000
+      internalID: 1115485478652717470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_251
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7644c166114377790800000000000000
+      internalID: -7532494602421648281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_252
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 19
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920f86c66b58c0270800000000000000
+      internalID: 8218090438593671209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_253
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 17
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a8c84836ff2e7d0800000000000000
+      internalID: -2890467207927788936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_254
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e50a744e9ccf80800000000000000
+      internalID: -8084913214094712772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_255
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e832639a7c8dbf0800000000000000
+      internalID: -299269845648437662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_256
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb72cd028db6c670800000000000000
+      internalID: 8558736508138453938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_257
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae037d88bdedca0800000000000000
+      internalID: -5990109073583838572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_258
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 19
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8ae0c1f52193650800000000000000
+      internalID: 6213017360636225734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_259
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dcd7e59cc2083c0800000000000000
+      internalID: -4359435195909288619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_260
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 19
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94840467f79338a70800000000000000
+      internalID: 8827962914183858249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_261
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 19
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c22512f0c5800170800000000000000
+      internalID: 8142655190027543238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_262
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 19
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d955044b395305740800000000000000
+      internalID: 5138666083330315677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_263
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 19
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00f812b9c5049a90800000000000000
+      internalID: -7308209931480928246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fda0ade9e7d19f0800000000000000
+      internalID: -496101163212808325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_265
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a35387186286a80800000000000000
+      internalID: -8473480361388197251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_266
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9776c4da6f3d5330800000000000000
+      internalID: 3701184196837275548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_267
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c987a3aa93a98f0800000000000000
+      internalID: -533050202601776113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_268
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d85372360ade70800000000000000
+      internalID: 9140625207455176657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_269
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f725e1f94336c950800000000000000
+      internalID: 6468914307448252401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_270
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d19c9d8f434330800000000000000
+      internalID: 3693883589009725637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_271
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c626c43aae964d9c0800000000000000
+      internalID: -3903378520540421524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_272
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4401ee014ca2080800000000000000
+      internalID: -9211334510840363823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_273
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53778cd06fe6810800000000000000
+      internalID: 1760615043406706136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_274
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba6feaf89e44d200800000000000000
+      internalID: 203874302090504886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_275
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3e7c6e58228d460800000000000000
+      internalID: 7266595957260149725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_276
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90387c95d05883b0800000000000000
+      internalID: -5510065265704423265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_277
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e0872ac59a3fd90800000000000000
+      internalID: -7065117175086313932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_278
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472cdc1c9efa91880800000000000000
+      internalID: -8639680991619857804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_279
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0167c69cf6f820800000000000000
+      internalID: 2951824330308258884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_280
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb3d010ba90add0800000000000000
+      internalID: -2476809714066539700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruler_9_281
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a67c0520ed2d5d0800000000000000
+      internalID: -3039122696995116481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ruler_9_0: -5472260766484571922
+      ruler_9_1: 8499801563935435132
+      ruler_9_10: -7307754177198566978
+      ruler_9_100: -5600982465017085411
+      ruler_9_101: 9128724187317903457
+      ruler_9_102: -571549103354263894
+      ruler_9_103: 2895693442754292326
+      ruler_9_104: -3827884119789821542
+      ruler_9_105: 8454887327215040280
+      ruler_9_106: 997010469098581671
+      ruler_9_107: 5590715411092062228
+      ruler_9_108: -1428809528020614551
+      ruler_9_109: 7665524154305344671
+      ruler_9_11: -5911253477024094202
+      ruler_9_110: -4410686805368408974
+      ruler_9_111: 5612419802263289141
+      ruler_9_112: 3070532223597099147
+      ruler_9_113: 7017160492875737607
+      ruler_9_114: -3833685461862129687
+      ruler_9_115: -1389180460832902172
+      ruler_9_116: -8624667339802765377
+      ruler_9_117: 4392287181677720000
+      ruler_9_118: 529619164069046907
+      ruler_9_119: 758234560963122105
+      ruler_9_12: 3762108967425883340
+      ruler_9_120: -400382019325076253
+      ruler_9_121: -7256194275087290794
+      ruler_9_122: 1570142503235682868
+      ruler_9_123: 569122238422237343
+      ruler_9_124: -1172654213499210816
+      ruler_9_125: 4618136964938198889
+      ruler_9_126: 1078600925142255057
+      ruler_9_127: 812505553288962974
+      ruler_9_128: 4301547924161765062
+      ruler_9_129: 1969415664303764390
+      ruler_9_13: -264159630598783750
+      ruler_9_130: -5005823760315310974
+      ruler_9_131: -51628010598747326
+      ruler_9_132: -6335201505434398556
+      ruler_9_133: -8604377466128039677
+      ruler_9_134: 7429744613313149891
+      ruler_9_135: 2476841831678269780
+      ruler_9_136: -1663517172580914285
+      ruler_9_137: 4462064573150034268
+      ruler_9_138: 4083510447093618837
+      ruler_9_139: -8393678541307704233
+      ruler_9_14: -5346972206807334208
+      ruler_9_140: 1503170820464808601
+      ruler_9_141: 2986239435645411354
+      ruler_9_142: -6902901822065137523
+      ruler_9_143: -6579939985882159455
+      ruler_9_144: 891193668532853118
+      ruler_9_145: 8895647196674529267
+      ruler_9_146: -3492931911859335007
+      ruler_9_147: 4611203801720509845
+      ruler_9_148: 1665669926353871738
+      ruler_9_149: -7605567742322789029
+      ruler_9_15: 8286464292503807397
+      ruler_9_150: 6704790542858910287
+      ruler_9_151: 5427411831672989336
+      ruler_9_152: 8182591850197096019
+      ruler_9_153: 7954501348255913800
+      ruler_9_154: 5814594695690590826
+      ruler_9_155: -5885193800291891640
+      ruler_9_156: -3528787245206871231
+      ruler_9_157: 6020108168126711956
+      ruler_9_158: -6241524136995612389
+      ruler_9_159: 8820447481111114067
+      ruler_9_16: -4759238908440958144
+      ruler_9_160: -4462867255463490549
+      ruler_9_161: 6250130999753097121
+      ruler_9_162: 7614007097242512693
+      ruler_9_163: 902949223621993735
+      ruler_9_164: 2446060212959610389
+      ruler_9_165: 3220995542527257165
+      ruler_9_166: 4620622493237222339
+      ruler_9_167: 4559930149817289318
+      ruler_9_168: -8062630026908170854
+      ruler_9_169: 4115427328874955737
+      ruler_9_17: 2370538460159997932
+      ruler_9_170: 8540930726316829517
+      ruler_9_171: -9203212162623027245
+      ruler_9_172: 2764385669073537736
+      ruler_9_173: 785334814153225475
+      ruler_9_174: -8112523565942367420
+      ruler_9_175: -7075491216077319736
+      ruler_9_176: -723627333230113753
+      ruler_9_177: -6143118177369355083
+      ruler_9_178: -2352899493161004185
+      ruler_9_179: -2862680807801331862
+      ruler_9_18: -2796388331068394933
+      ruler_9_180: -1651616104915558722
+      ruler_9_181: 2978787554039168806
+      ruler_9_182: 855302763621506140
+      ruler_9_183: -8169226600519442486
+      ruler_9_184: -1393100269127377454
+      ruler_9_185: 4605260098427502060
+      ruler_9_186: -7385540176620128362
+      ruler_9_187: 6521545144788447187
+      ruler_9_188: 6767225335439652115
+      ruler_9_189: 4241415973183290978
+      ruler_9_19: -617376857908759945
+      ruler_9_190: 3067519668552041336
+      ruler_9_191: 9037015740270640033
+      ruler_9_192: -5508955147591246933
+      ruler_9_193: 5803007820502397471
+      ruler_9_194: -403455336885666416
+      ruler_9_195: 8556853350410733689
+      ruler_9_196: -655988305041691786
+      ruler_9_197: 7514994416602973793
+      ruler_9_198: 4930073713229090578
+      ruler_9_199: 2335884549436989558
+      ruler_9_2: 143047784642670682
+      ruler_9_20: 4225353466462657195
+      ruler_9_200: 3275819210458765832
+      ruler_9_201: -1164010197965714037
+      ruler_9_202: 8198184368643072042
+      ruler_9_203: -1709616970563946627
+      ruler_9_204: 4668785680529906305
+      ruler_9_205: -481577051493499028
+      ruler_9_206: 1615425020053434030
+      ruler_9_207: 9167577920755985775
+      ruler_9_208: 4801359639143209109
+      ruler_9_209: -2212380975065609213
+      ruler_9_21: -8296328439331409771
+      ruler_9_210: -7667324796388079735
+      ruler_9_211: 6223058912983151822
+      ruler_9_212: 5849623538721890614
+      ruler_9_213: -3708672621904703467
+      ruler_9_214: -8434111143270267261
+      ruler_9_215: 2488619798089942280
+      ruler_9_216: -1899657502270876444
+      ruler_9_217: -8893434025028402171
+      ruler_9_218: -5393059953945594871
+      ruler_9_219: -7023929599722706183
+      ruler_9_22: -1384237150810013187
+      ruler_9_220: 8246703118113144868
+      ruler_9_221: -762394310289723795
+      ruler_9_222: 5394308150814214063
+      ruler_9_223: -64089684272820963
+      ruler_9_224: -6556154307833734365
+      ruler_9_225: 6627671561585911893
+      ruler_9_226: -2092108364585990575
+      ruler_9_227: 967551161432621435
+      ruler_9_228: -2286668864395688850
+      ruler_9_229: -2445756444618077206
+      ruler_9_23: 5951972685139704084
+      ruler_9_230: -5133998793005022884
+      ruler_9_231: 1255059906130576138
+      ruler_9_232: -3805834977023960023
+      ruler_9_233: -1183616239044428318
+      ruler_9_234: 1139967751600934704
+      ruler_9_235: -4573638290702109730
+      ruler_9_236: 6837466575672401798
+      ruler_9_237: -8505837817582910284
+      ruler_9_238: -3947832273722361921
+      ruler_9_239: -8820417213794480938
+      ruler_9_24: 8823128191548153727
+      ruler_9_240: 8138431030376921701
+      ruler_9_241: -6926808357541370963
+      ruler_9_242: 1983284516412739071
+      ruler_9_243: 4350704009434925206
+      ruler_9_244: 6475800614985826075
+      ruler_9_245: 2533637067499801775
+      ruler_9_246: -415077482572535785
+      ruler_9_247: 4804245327782343056
+      ruler_9_248: -5392649637845982799
+      ruler_9_249: 2088015979613505479
+      ruler_9_25: 4228318229367758444
+      ruler_9_250: 1115485478652717470
+      ruler_9_251: -7532494602421648281
+      ruler_9_252: 8218090438593671209
+      ruler_9_253: -2890467207927788936
+      ruler_9_254: -8084913214094712772
+      ruler_9_255: -299269845648437662
+      ruler_9_256: 8558736508138453938
+      ruler_9_257: -5990109073583838572
+      ruler_9_258: 6213017360636225734
+      ruler_9_259: -4359435195909288619
+      ruler_9_26: -2766146365349880462
+      ruler_9_260: 8827962914183858249
+      ruler_9_261: 8142655190027543238
+      ruler_9_262: 5138666083330315677
+      ruler_9_263: -7308209931480928246
+      ruler_9_264: -496101163212808325
+      ruler_9_265: -8473480361388197251
+      ruler_9_266: 3701184196837275548
+      ruler_9_267: -533050202601776113
+      ruler_9_268: 9140625207455176657
+      ruler_9_269: 6468914307448252401
+      ruler_9_27: 7959218470560187960
+      ruler_9_270: 3693883589009725637
+      ruler_9_271: -3903378520540421524
+      ruler_9_272: -9211334510840363823
+      ruler_9_273: 1760615043406706136
+      ruler_9_274: 203874302090504886
+      ruler_9_275: 7266595957260149725
+      ruler_9_276: -5510065265704423265
+      ruler_9_277: -7065117175086313932
+      ruler_9_278: -8639680991619857804
+      ruler_9_279: 2951824330308258884
+      ruler_9_28: -4915139623444896250
+      ruler_9_280: -2476809714066539700
+      ruler_9_281: -3039122696995116481
+      ruler_9_29: -5519080120817772589
+      ruler_9_3: -7818903100520643521
+      ruler_9_30: 4885894274425350420
+      ruler_9_31: 421253402798668313
+      ruler_9_32: 3193953777030251431
+      ruler_9_33: -233258981742588669
+      ruler_9_34: 2130861951491339482
+      ruler_9_35: 5604531286011654911
+      ruler_9_36: -7108515437102980286
+      ruler_9_37: 501946886940176616
+      ruler_9_38: 4916910730650997076
+      ruler_9_39: 4128679394702144973
+      ruler_9_4: 8319020573415025451
+      ruler_9_40: -8371075689340321873
+      ruler_9_41: -902672954144598586
+      ruler_9_42: 1646013330827372671
+      ruler_9_43: -1981628200994061242
+      ruler_9_44: -8931242966427859349
+      ruler_9_45: 1047374226439484084
+      ruler_9_46: 2367732398655133048
+      ruler_9_47: 8707235610339310048
+      ruler_9_48: 693338287586653628
+      ruler_9_49: 8995801799359791280
+      ruler_9_5: -7676338306147786331
+      ruler_9_50: -2992881592414691993
+      ruler_9_51: 6545635156606020453
+      ruler_9_52: -7020460528506951378
+      ruler_9_53: 803323579104452220
+      ruler_9_54: 3218580890144206110
+      ruler_9_55: 4984965595578480162
+      ruler_9_56: -4910453711449385538
+      ruler_9_57: -4252064605847960544
+      ruler_9_58: -5301131781705144250
+      ruler_9_59: 6076368927568329526
+      ruler_9_6: 4980084836395167839
+      ruler_9_60: -360819933285662028
+      ruler_9_61: 8253881151387837932
+      ruler_9_62: 7599259595901314943
+      ruler_9_63: -4360902256784837039
+      ruler_9_64: -2086890761986936704
+      ruler_9_65: -3020423227520505203
+      ruler_9_66: -3917566937187710129
+      ruler_9_67: -7763885822378998352
+      ruler_9_68: 688837070288430448
+      ruler_9_69: -6057071956492249286
+      ruler_9_7: 648726248904862145
+      ruler_9_70: 1659011783895976192
+      ruler_9_71: 7534173836797324184
+      ruler_9_72: -6249558172749756799
+      ruler_9_73: 485316319355391631
+      ruler_9_74: -7692441799651055533
+      ruler_9_75: 4853779112314415807
+      ruler_9_76: 1323858233502126279
+      ruler_9_77: 2653303790574672653
+      ruler_9_78: -8782574488538814422
+      ruler_9_79: 5666451410479385419
+      ruler_9_8: 4025339249269227130
+      ruler_9_80: -9213585283495320475
+      ruler_9_81: 8603809643283355494
+      ruler_9_82: -1413310921513195809
+      ruler_9_83: 5196736639034687752
+      ruler_9_84: 4772654224100802750
+      ruler_9_85: -5990552418562699654
+      ruler_9_86: -6695450156661112502
+      ruler_9_87: -651958543877727708
+      ruler_9_88: 4383741935097046446
+      ruler_9_89: 2276902394453201787
+      ruler_9_9: -2768796904583830409
+      ruler_9_90: 481649358343490870
+      ruler_9_91: 2643984918164477059
+      ruler_9_92: 6672436401134530294
+      ruler_9_93: -5408770450671002003
+      ruler_9_94: 1920580886137687723
+      ruler_9_95: 8015664300813680345
+      ruler_9_96: -6839291461124430878
+      ruler_9_97: 828624600997497200
+      ruler_9_98: -8039933192650225413
+      ruler_9_99: 6375502053605635525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

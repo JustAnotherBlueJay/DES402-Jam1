@@ -57,6 +57,11 @@ public class PlayerController : MonoBehaviour
 
     }
 
+    private void OnEnable()
+    {
+        myRigidBody.simulated = true;
+    }
+
     // Update is called once per frame
     private void Update()
     {
