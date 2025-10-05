@@ -41,6 +41,8 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private Timer playerInactiveTimer;
 
+    float timeElapsed;
+    float walkAnimLength = 0.1125f;
     private void Awake()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -121,27 +123,40 @@ public class PlayerController : MonoBehaviour
         //stops the player sliding
         StickToSlope();
 
-        //direction to move the player along
-        Vector2 slopeDirection = GetSlopeVector();
-
-
-        // if the player presses the correct button move them
-        if (movePlayer && myRigidBody.IsTouchingLayers(LayerMask.GetMask("Slope")))
+        //if the player is marked to move
+        if (movePlayer)
         {
-            //set move player flag to false to stop them being moved on the next fixed update
-            movePlayer = false;
+            //direction to move the player along
+            Vector2 slopeDirection = GetSlopeVector();
 
-            //calculate the final force to move the player
-            Vector2 finalForce = slopeDirection * stepLength;
+            //magnatude and direction to move the player
+            Vector2 fullForce = slopeDirection * stepLength;
 
-            //reset velocity to prevent spamming
-            //myRigidBody.linearVelocity = Vector2.zero;
+            //to keep track of when to stop applying force
+            timeElapsed += Time.deltaTime;
 
-            //move the player
-            myRigidBody.AddForce(finalForce, ForceMode2D.Impulse);
+            //force = time passed * force per second
+            Vector2 applyForce = Time.deltaTime * (fullForce / walkAnimLength);
 
-            //myAnimator.Play("FullWeightWalk");
+            //if the player is grounded keep applying the force
+            if (myRigidBody.IsTouchingLayers(LayerMask.GetMask("Slope")))
+            {
+                myRigidBody.AddForce(applyForce, ForceMode2D.Impulse);
 
+            }
+            //when the time over which the force should be applied is over set the movePlayer flag to false and reset the timeElapsed
+            if (timeElapsed >= walkAnimLength)
+            {
+                movePlayer = false;
+                timeElapsed = 0;
+
+            }
+        }
+
+        //if the player isnt grounded make them fall
+        if(!myRigidBody.IsTouchingLayers(LayerMask.GetMask("Slope")))
+        {
+            myRigidBody.linearVelocityY = -9.8f;
         }
 
 
