@@ -19,7 +19,7 @@ public class InstanceManager : MonoBehaviour
     private DialogueManager dialogueCanvasScript;
 
     [SerializeField] private TitleScreen titleScreen;
-    [SerializeField] private GameObject endScreen;
+    [SerializeField] private EndScreen endScreen;
 
 
     private Music_Manager musicManager;
@@ -67,6 +67,7 @@ public class InstanceManager : MonoBehaviour
         parallaxScriptMountain.ApplyInstanceData(instanceNumber);
         dialogueCanvasScript.ApplyInstanceData(instanceNumber);
         titleScreen.ApplyInstanceData(instanceNumber);
+        endScreen.ApplyInstanceData(instanceNumber);
 
     }
 
@@ -106,6 +107,7 @@ public class InstanceManager : MonoBehaviour
 
         }
         titleScreen.gameObject.SetActive(true);
+        endScreen.enabled = false;
         playerScript.enabled = false;
 
         musicManager.StopMusic();
@@ -116,17 +118,17 @@ public class InstanceManager : MonoBehaviour
         gameState = GameState.EndScreen;
 
         //turn everything but player off since it has the camera
-        for (int i = 0; i < transform.childCount; i++)
-        {
-            if (transform.GetChild(i).name != "Player")
-            {
-                transform.GetChild(i).gameObject.SetActive(false);
-            }
+        //for (int i = 0; i < transform.childCount; i++)
+        //{
+        //    if (transform.GetChild(i).name != "Player")
+        //    {
+        //        transform.GetChild(i).gameObject.SetActive(false);
+        //    }
 
-        }
+        //}
 
 
-        endScreen.gameObject.SetActive(true);
+        endScreen.enabled = true;
         playerScript.enabled = false;
 
         //musicManager.StopMusic();

@@ -63,10 +63,13 @@ public class PlayerController : MonoBehaviour
 
     private void OnEnable()
     {
+        transform.localPosition = new Vector3(0.12f, -7.15f, 0f);
+        myRigidBody.linearVelocity = Vector3.zero;
         myRigidBody.simulated = true;
 
         playerInactiveTimer.OnTimeout = PlayerInactive;
         playerInactiveTimer.StartTimer();
+
     }
 
     // Update is called once per frame
