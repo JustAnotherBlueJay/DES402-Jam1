@@ -19,13 +19,16 @@ public class InstanceManager : MonoBehaviour
     private DialogueManager dialogueCanvasScript;
 
     [SerializeField] private TitleScreen titleScreen;
+    [SerializeField] private GameObject endScreen;
+
 
     private Music_Manager musicManager;
 
     public enum GameState
     {
         TitleScreen,
-        InGame
+        InGame,
+        EndScreen
     }
     public GameState gameState;
 
@@ -106,5 +109,26 @@ public class InstanceManager : MonoBehaviour
         playerScript.enabled = false;
 
         musicManager.StopMusic();
+    }
+
+    public void TransitionToEndScreen()
+    {
+        gameState = GameState.EndScreen;
+
+        //turn everything but player off since it has the camera
+        for (int i = 0; i < transform.childCount; i++)
+        {
+            if (transform.GetChild(i).name != "Player")
+            {
+                transform.GetChild(i).gameObject.SetActive(false);
+            }
+
+        }
+
+
+        endScreen.gameObject.SetActive(true);
+        playerScript.enabled = false;
+
+        //musicManager.StopMusic();
     }
 }
