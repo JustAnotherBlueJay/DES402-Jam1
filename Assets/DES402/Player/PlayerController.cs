@@ -274,6 +274,7 @@ public class PlayerController : MonoBehaviour
     //NPC doesnt need to know the players weight so it can just reduce it like this
     public void ReduceWeight()
     {
+        print("Weight changed");
         //increase the enum by one to drop weight
         int newWeight = (int)weight + 1;
 

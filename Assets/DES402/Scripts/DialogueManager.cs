@@ -11,6 +11,7 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private GameObject dialogueNPC;
     [SerializeField] private GameObject dialoguePlayer;
     [SerializeField] private InstanceManager myInstanceManager;
+    [SerializeField] private PlayerController player;
 
     private Action onDialogueComplete;
 
@@ -43,9 +44,17 @@ public class DialogueManager : MonoBehaviour
     {
         //Vector3 cameraPos = cameraTransform.position;
        // transform.position = new Vector3(cameraPos.x - (myInstanceNumber * 200), cameraPos.y, 0f);  
-        if (dialoguePlayer.activeSelf && ( WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Left ) || WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Right)))
+        if (dialoguePlayer.activeSelf)
         {
-            EndDialogue();
+            if (WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Left))
+                {
+                player.ReduceWeight();
+                EndDialogue();
+            }
+            else if (WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Right))
+            {
+                EndDialogue();
+            }
         }
     }
 
