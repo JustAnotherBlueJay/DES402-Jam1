@@ -43,6 +43,9 @@ public class PlayerController : MonoBehaviour
 
     float timeElapsed;
     float walkAnimLength = 0.1125f;
+
+    public bool isActive = true;
+
     private void Awake()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -59,7 +62,7 @@ public class PlayerController : MonoBehaviour
         inputTimer.OnTimeout = OnInputTimerTimeout;
 
         //tell the movement buttons to flash on startup since the player is active
-        UIManager.SetMoveButtonsFlash(moveable);
+        UIManager.SetMoveButtonsFlash(moveable && isActive);
 
     }
 
@@ -83,6 +86,12 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
+        if (!isActive)
+        {
+            myRigidBody.linearVelocity = Vector2.zero;
+            return;
+        }
+
         // if the player presses the correct button mark them to be moved
         if (PlayerGaveExpectedInput())
         {
@@ -98,7 +107,7 @@ public class PlayerController : MonoBehaviour
             //start the input delay
             moveable = false;
             //stop buttons flashing
-            UIManager.SetMoveButtonsFlash(moveable);
+            UIManager.SetMoveButtonsFlash(moveable && isActive);
             inputTimer.StartTimer(inputPauseTime);
         }
 
@@ -232,7 +241,7 @@ public class PlayerController : MonoBehaviour
     {
         //allows the player to be moved
         moveable = true;
-        UIManager.SetMoveButtonsFlash(moveable);
+        UIManager.SetMoveButtonsFlash(moveable && isActive);
 
     }
 

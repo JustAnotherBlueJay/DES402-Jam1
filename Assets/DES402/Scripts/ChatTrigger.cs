@@ -19,16 +19,16 @@ public class ChatTrigger : MonoBehaviour
         if (!hasTalked && other.CompareTag("Player"));
         {
             var player = other.GetComponent<PlayerController>();
-            var rb = other.GetComponent<Rigidbody2D>();
+            var rigidBody = other.GetComponent<Rigidbody2D>();
 
-            player.enabled = false;
-            rb.linearVelocity = Vector2.zero;
+            player.isActive = false;
+            rigidBody.linearVelocity = Vector2.zero;
 
             print("yeah we stopped him");
 
             dialogueManager.startDialogue(NPCDialogueSprite, () =>
             {
-                player.enabled = true;
+                player.isActive = true;
             });
 
             //dialogue

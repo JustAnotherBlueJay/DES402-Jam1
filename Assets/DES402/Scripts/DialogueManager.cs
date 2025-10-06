@@ -8,8 +8,8 @@ public class DialogueManager : MonoBehaviour
     //[SerializeField] DialogueManager instance;
 
    // [SerializeField] private Transform cameraTransform;
-    [SerializeField] private GameObject dialoguePanel;
-    [SerializeField] private Image dialogueImage;
+    [SerializeField] private GameObject dialogueNPC;
+    [SerializeField] private GameObject dialoguePlayer;
     [SerializeField] private InstanceManager myInstanceManager;
 
     private Action onDialogueComplete;
@@ -19,14 +19,15 @@ public class DialogueManager : MonoBehaviour
     private void Awake()
     {
        // instance = this;
-        dialoguePanel.SetActive(false);
+        dialoguePlayer.SetActive(false);
+        dialogueNPC.SetActive(false);
     }
 
     public void startDialogue(Sprite NPCImage, Action OnComplete)
         {
         onDialogueComplete = OnComplete;
-        dialoguePanel.SetActive(true);
-        dialogueImage.sprite = NPCImage;
+        dialoguePlayer.SetActive(true);
+        dialogueNPC.SetActive(true);
     }
 
 
@@ -42,7 +43,7 @@ public class DialogueManager : MonoBehaviour
     {
         //Vector3 cameraPos = cameraTransform.position;
        // transform.position = new Vector3(cameraPos.x - (myInstanceNumber * 200), cameraPos.y, 0f);  
-        if (dialoguePanel.activeSelf && ( WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Left ) || WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Right)))
+        if (dialoguePlayer.activeSelf && ( WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Left ) || WhalesongInput.GetButton(myInstanceNumber, WhaleButton.Right)))
         {
             EndDialogue();
         }
@@ -57,7 +58,8 @@ public class DialogueManager : MonoBehaviour
 
     private void EndDialogue()
     {
-        dialoguePanel.SetActive(false);
+        dialoguePlayer.SetActive(false);
+        dialogueNPC.SetActive(false);
         onDialogueComplete?.Invoke();
     }
 }
