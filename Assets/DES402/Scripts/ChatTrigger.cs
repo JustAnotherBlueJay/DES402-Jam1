@@ -5,6 +5,7 @@ public class ChatTrigger : MonoBehaviour
 
     [SerializeField] private Sprite NPCDialogueSprite;
     [SerializeField] private DialogueManager dialogueManager;
+    [SerializeField] private InstanceUIManager UIManager;
 
     private bool hasTalked = false;
 
@@ -23,12 +24,14 @@ public class ChatTrigger : MonoBehaviour
 
             player.isActive = false;
             rigidBody.linearVelocity = Vector2.zero;
+            UIManager.SetDialogueOptionsActivity(false);
 
             print("yeah we stopped him");
 
             dialogueManager.startDialogue(NPCDialogueSprite, () =>
             {
                 player.isActive = true;
+                UIManager.SetDialogueOptionsActivity(true);
             });
 
             //dialogue

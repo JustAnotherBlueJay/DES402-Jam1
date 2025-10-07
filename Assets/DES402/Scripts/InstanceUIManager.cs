@@ -13,7 +13,7 @@ public class InstanceUIManager : MonoBehaviour
     [SerializeField] Sprite[] leftDialogueOptionStates;
 
     [SerializeField] Image rightDialogueOption;
-    [SerializeField] Sprite[] rightDialogueOptionStaets;
+    [SerializeField] Sprite[] rightDialogueOptionStates;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -86,13 +86,13 @@ public class InstanceUIManager : MonoBehaviour
     {
         if (!isActive)
         {
-            leftDialogueOption.sprite = leftDialogueOptionStates[0];
-            rightDialogueOption.sprite = leftDialogueOptionStates[0];
+            leftDialogueOption.sprite = leftDialogueOptionStates[1];
+            rightDialogueOption.sprite = rightDialogueOptionStates[1];
         }
         else
         {
-            leftDialogueOption.sprite = leftDialogueOptionStates[1];
-            rightDialogueOption.sprite = leftDialogueOptionStates[1];
+            leftDialogueOption.sprite = leftDialogueOptionStates[0];
+            rightDialogueOption.sprite = rightDialogueOptionStates[0];
         }
     }
 }
