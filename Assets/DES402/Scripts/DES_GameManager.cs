@@ -16,6 +16,10 @@ public class DES_GameManager : MonoBehaviour
 
     }
 
+    private float totalDistanceClimbed;
+
+    public static DES_GameManager instance;
+
     //dictionary of player id and current state
     private Dictionary<int, PlayerState> playerStates = new Dictionary<int, PlayerState>
     {
@@ -31,11 +35,14 @@ public class DES_GameManager : MonoBehaviour
 
     private void Awake()
     {
+        instance = this;
+
         //create 4 instances of the game
         for (int i = 0; i < playerStates.Count; i++)
         {
             CreateGameInstance(i);
         }
+
     }
     // Update is called once per frame
     void Update()
@@ -108,6 +115,16 @@ public class DES_GameManager : MonoBehaviour
                 manager.GetComponent<InstanceManager>().RegisterSelf(instanceNumber);
             }
         }
+    }
+
+    public static void AddToTotalDistanceClimbed(float km)
+    {
+        instance.totalDistanceClimbed += km;
+    }
+
+    public static float GetTotalDistanceClimbed()
+    {
+        return instance.totalDistanceClimbed;
     }
 
 }

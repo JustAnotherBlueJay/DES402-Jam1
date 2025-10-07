@@ -1,4 +1,5 @@
 using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,6 +7,9 @@ public class EndScreen : MonoBehaviour
 {
     [SerializeField] InstanceManager instanceManager;
     [SerializeField] Timer returnToTitleTimer;
+    [SerializeField] Timer showStatsTimer;
+    [SerializeField] GameObject statsScreen;
+    [SerializeField] TextMeshProUGUI statsText;
     [SerializeField] Image image;
     [SerializeField] Sprite endScreenImage;
     [SerializeField] Image fadeToBlack;
@@ -21,13 +25,15 @@ public class EndScreen : MonoBehaviour
 
     private void OnEnable()
     {
-        //start the timer
+        //start the timer to return to the start screen
         returnToTitleTimer.OnTimeout = ReturnToTitleScreen;
         returnToTitleTimer.StartTimer();
 
-        //FadeInScren
-        //image.color = Color.white;
+        //start the timer to transition to the stats screen
+        showStatsTimer.OnTimeout = ShowStatsScreen;
+        showStatsTimer.StartTimer();
 
+        //FadeInScren
         shouldFadeToBlack = true;
         shouldFadeToImage = false;
         timeElapsed = 0f;
@@ -37,6 +43,7 @@ public class EndScreen : MonoBehaviour
     {
         fadeToBlack.color = new Color(0f,0f, 0f, 0f);
         image.color = new Color(1f, 1f, 1f, 0f);
+        statsScreen.SetActive(false);
     }
 
     // Update is called once per frame
@@ -65,6 +72,7 @@ public class EndScreen : MonoBehaviour
             {
                 shouldFadeToImage = false;
                 timeElapsed = 0f;
+
             }
         }
     }
@@ -79,6 +87,16 @@ public class EndScreen : MonoBehaviour
     {
 
         instanceManager.TransitionToTitle();
+
+    }
+
+    private void ShowStatsScreen()
+    {
+        DES_GameManager.AddToTotalDistanceClimbed(0.91f);
+        float totalDistance = DES_GameManager.GetTotalDistanceClimbed();
+
+        statsText.text = "\r\nDedicated to all those who didnt make the climb.\r\n\r\nThe city of Dundee has collectively climbed X km's\r\n\r\n".Replace("X",totalDistance.ToString());
+        statsScreen.SetActive(true);
 
     }
 }
