@@ -13,7 +13,8 @@ public class PlayerController : MonoBehaviour
     {
         FullWeight,
         MinusOne,
-        MinusTwo
+        MinusTwo,
+        NoWeight
     }
     private PlayerWeight weight = PlayerWeight.FullWeight;
     //how long each player step is
@@ -124,6 +125,10 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKey(KeyCode.Keypad3))
         {
             SetPlayerWeight(PlayerWeight.MinusTwo);
+        }
+        if (Input.GetKey(KeyCode.Keypad4))
+        {
+            SetPlayerWeight(PlayerWeight.NoWeight);
         }
 
     }
@@ -257,6 +262,9 @@ public class PlayerController : MonoBehaviour
                 break;
             case PlayerWeight.MinusTwo:
                 myAnimator.Play("MinusTwoWalk");
+                break;
+            case PlayerWeight.NoWeight:
+                myAnimator.Play("NoWeightWalk");
                 break;
         }
     }
