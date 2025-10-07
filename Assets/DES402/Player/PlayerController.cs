@@ -73,6 +73,8 @@ public class PlayerController : MonoBehaviour
         myRigidBody.linearVelocity = Vector3.zero;
         myRigidBody.simulated = true;
 
+        SetPlayerWeight(PlayerWeight.FullWeight);
+
         playerInactiveTimer.OnTimeout = PlayerInactive;
         playerInactiveTimer.StartTimer();
 
