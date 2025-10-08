@@ -46,7 +46,7 @@ public class PlayerController : MonoBehaviour
     float walkAnimLength = 0.1125f;
 
     public bool isActive = true;
-
+    public bool sliding = false;
     private void Awake()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -136,6 +136,14 @@ public class PlayerController : MonoBehaviour
     }
     void FixedUpdate()
     {
+        if (sliding)
+        {
+            print("Sliding");
+            myRigidBody.linearVelocity = Vector2.zero;
+            Vector2 slopeDirection = GetSlopeVector();
+            myRigidBody.AddForce(-slopeDirection * 5f, ForceMode2D.Impulse);
+            return;
+        }
         //stops the player sliding
         StickToSlope();
 
@@ -289,6 +297,11 @@ public class PlayerController : MonoBehaviour
         int newWeight = (int)weight + 1;
 
         SetPlayerWeight((PlayerWeight)newWeight);
+    }
+
+    public PlayerWeight GetPlayerWeight()
+    {
+        return weight;
     }
 
     private void PlayerInactive()
